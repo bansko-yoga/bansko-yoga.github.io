@@ -19,11 +19,12 @@ import { Environment } from './Environment';
 
 const base = 'https://gist.githubusercontent.com/grenade/bacfcaa93d858a387b1c9d94fe67e9c7/raw';
 const defaultCamera = {
-  zoom: 1,
+  zoom: 0.08,
   fov: 5,
-  position: [0, -60, 25],
-  minDistance: 10,
-  maxDistance: 80,
+  position: [0, 0, 0],
+  up: [0, 0, 1],
+  minDistance: 1,
+  maxDistance: 15,
   target: [0, 0, 0],
 };
 
@@ -120,7 +121,7 @@ function App() {
         <Canvas shadows>
           {
             components.filter((x) => x.visible).map(({id, name, stl, color, opacity}) => (
-              <mesh key={id} scale={0.00015}>
+              <mesh key={id} scale={0.000025} rotation={[0, 0, 0]}>
                 <primitive object={stl}/>
                 <meshStandardMaterial color={color} transparent={!!opacity && (opacity < 1)} opacity={opacity} />
               </mesh>
@@ -136,14 +137,15 @@ function App() {
           <PerspectiveCamera
             makeDefault
             position={camera.position}
+            up={camera.up}
             fov={camera.fov}
             zoom={camera.zoom}
           />
           <ambientLight/>
           <pointLight position={[10, 10, 10]}/>
-          <Environment />
           {/*
           <gridHelper />
+          <Environment />
           */}
         </Canvas>
       </Row>
