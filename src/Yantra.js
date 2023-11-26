@@ -5,13 +5,14 @@ function Yantra() {
     <Row>
       <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="2003.312" height="1765.684" viewBox="354.197 750.678 2003.312 1765.684">
         <defs>
-          <filter id="e87c334d-535d-40c6-84e5-3e9259065aab" x="-0.5" y="-0.5" width="2" height="2">
+          <filter id="c577012a-ae63-454b-8fa6-0eaf6ddb9e4d" x="-0.5" y="-0.5" width="2" height="2">
             <feFlood flood-color="#7F7F7F" flood-opacity="1"/>
             <feComposite in2="SourceAlpha" operator="in" result="sourceEffect"/>
             <feMerge>
               <feMergeNode in="sourceEffect"/>
             </feMerge>
           </filter>
+          <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACZSURBVHhe7dcBDcBAEMOw4096ewBlEFsKiNzzKR0AAAAt6w3VCQAAgJb1huoEAABAy3pDdQIAAKBlvaE6AQAA0LLeUJ0AAABoWW+oTgAAALSsN1QnAAAAWtYbqhMAAAAt6w3VCQAAgJb1huoEAABAy3pDdQIAAKBlvaE6AQAA0LLeUJ0AAABoWW+oTgAAALSsN1QnAAAAKu5+G8r4atQXouUAAAAASUVORK5CYII=" x="0" y="0" width="128" height="128" preserveAspectRatio="none" id="600c78d2-53f7-45fd-84c9-2c5bc155ec88"/>
         </defs>
         <g>
           <g width="738.027" height="821.608" transform="scale(1,1) translate(414.202,810.802)">
@@ -24,116 +25,111 @@ function Yantra() {
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M751.338,205.291 L765.743,180.342 L576.505,71.086 M559.473,61.252 L370.235,-48.004 L355.831,-23.055 M319.464,-13.311 L294.516,-27.715 L128.228,260.303 M118.284,277.528 L-48.004,565.546 L-23.055,579.95 M-13.311,616.317 L-27.715,641.266 L161.523,750.522 M178.555,760.356 L367.792,869.612 L382.197,844.663"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M751.338,205.291 L765.743,180.342 L576.601,71.141 M559.377,61.197 L370.235,-48.004 L355.831,-23.055 M319.464,-13.311 L294.516,-27.715 L128.228,260.303 M118.284,277.528 L-48.004,565.546 L-23.055,579.95 M-13.311,616.317 L-27.715,641.266 L161.427,750.467 M178.651,760.411 L367.792,869.612 L382.197,844.663"/>
               <g>
                 <g stroke-dasharray="none">
                   <path d="M750.338,204.291L752.338,204.291L752.338,206.291L750.338,206.291z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(30,565.475,56.856) scale(1,1) translate(565.475,56.856)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">5.8</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(30,565.379,56.801) scale(1,1) translate(565.379,56.801)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">5.8</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(300,113.887,271.525) scale(1,1) translate(113.887,271.525)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">8.7</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">8.7</tspan>
               </text>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(30,167.525,746.126) scale(1,1) translate(167.525,746.126)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">5.8</tspan>
-              </text>
-            </g>
-          </g>
-          <g width="383.491" height="260.891" transform="scale(1,1) translate(1820.324,1241.667)">
-            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M383.491,0 L0,219.056 L22.724,260.891" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M371.68,-11.811L395.302,-11.811L395.302,11.811L371.68,11.811z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M390.838,12.861 L405.127,37.876 L224.428,141.094 M202.334,153.714 L21.635,256.932 L7.346,231.917 M-13.015,226.126 L-38.33,239.877 L-31.714,252.056 M-22.221,269.533 L-15.605,281.711 L9.71,267.96"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M389.838,11.861L391.838,11.861L391.838,13.861L389.838,13.861z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(330.264,201.562,146.314) scale(1,1) translate(201.562,146.314)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">5.61</tspan>
-              </text>
-            </g>
-            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(61.489,-24.299,251.442) scale(1,1) translate(-24.299,251.442)" opacity="1">
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(30,167.429,746.07) scale(1,1) translate(167.429,746.07)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.6</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">5.8</tspan>
               </text>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(330.264,228.324,53.592) scale(1,1) translate(228.324,53.592)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.78</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M253.229,51.127 L249.853,45.215 L257.453,44.794 L253.229,51.127 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M230.434,64.148 L227.057,58.236 L222.833,64.569 L230.434,64.148 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(330.264,38.628,161.949) scale(1,1) translate(38.628,161.949)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.82</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M63.534,159.484 L60.157,153.572 L67.757,153.151 L63.534,159.484 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M40.738,172.505 L37.361,166.594 L33.138,172.926 L40.738,172.505 z"/>
             </g>
           </g>
-          <g width="556.736" height="295.161" transform="scale(1,1) translate(1571.803,1046.522)">
+          <g width="248.62" height="138.88" transform="scale(1,1) translate(1820.324,1321.843)">
             <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M556.736,65.789 L175.98,295.161 L0,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <path d="M248.62,0 L0,138.88" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M544.925,53.978L568.547,53.978L568.547,77.6L544.925,77.6z" stroke-width="0" fill="none"/>
+                  <path d="M236.809,-11.811L260.431,-11.811L260.431,11.811L236.809,11.811z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M564.378,78.476 L579.244,103.152 L399.764,211.273 M377.969,224.403 L198.489,332.524 L183.623,307.847 M163.259,302.745 L138.515,317.498 L57.04,180.845 M44.009,158.991 L-37.466,22.338 L-12.722,7.585"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M241.398,-12.93 L227.348,-38.081 L114.145,25.155 M91.931,37.564 L-21.272,100.799 L-7.223,125.95"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M563.378,77.476L565.378,77.476L565.378,79.476L563.378,79.476z" stroke-width="0" fill="none"/>
+                  <path d="M240.398,-13.93L242.398,-13.93L242.398,-11.93L240.398,-11.93z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(328.935,377.025,217.023) scale(1,1) translate(377.025,217.023)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(330.812,91.23,30.157) scale(1,1) translate(91.23,30.157)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">5.65</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">3.62</tspan>
               </text>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(59.196,51.394,158.081) scale(1,1) translate(51.394,158.081)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(330.812,65.143,67.638) scale(1,1) translate(65.143,67.638)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">4.36</tspan>
-              </text>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(59.196,32.358,87.099) scale(1,1) translate(32.358,87.099)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.57</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.57</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M35.287,111.954 L41.135,108.467 L41.697,116.058 L35.287,111.954 z"/>
+              <path d="M90.07,65.411 L86.75,59.467 L94.354,59.119 L90.07,65.411 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M21.843,89.405 L27.69,85.918 L21.28,81.813 L21.843,89.405 z"/>
+              <path d="M67.151,78.214 L63.831,72.27 L59.547,78.562 L67.151,78.214 z"/>
+            </g>
+          </g>
+          <g width="579.611" height="323.061" transform="scale(1,1) translate(1571.803,1046.522)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M579.611,103.763 L197.68,323.061 L0,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M567.8,91.952L591.422,91.952L591.422,115.574L567.8,115.574z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M586.986,116.607 L601.331,141.59 L421.398,244.904 M399.333,257.574 L219.4,360.888 L205.055,335.905 M185.047,330.791 L160.474,345.827 L68.274,195.149 M54.993,173.445 L-37.207,22.767 L-12.634,7.73"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M585.986,115.607L587.986,115.607L587.986,117.607L585.986,117.607z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(330.136,398.544,250.176) scale(1,1) translate(398.544,250.176)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">5.59</tspan>
+              </text>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(58.538,62.367,172.451) scale(1,1) translate(62.367,172.451)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">4.81</tspan>
+              </text>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(58.538,167.548,306.025) scale(1,1) translate(167.548,306.025)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.52</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M170.762,330.845 L176.57,327.291 L177.219,334.875 L170.762,330.845 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M157.06,308.451 L162.867,304.898 L156.41,300.867 L157.06,308.451 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(58.538,33.89,87.593) scale(1,1) translate(33.89,87.593)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.59</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M37.104,112.413 L42.912,108.859 L43.561,116.444 L37.104,112.413 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M23.402,90.02 L29.209,86.466 L22.752,82.436 L23.402,90.02 z"/>
             </g>
           </g>
           <g width="738.027" height="821.608" transform="scale(1,1) translate(1559.478,810.682)">
@@ -146,26 +142,26 @@ function Yantra() {
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M355.831,844.663 L370.235,869.612 L559.473,760.356 M576.505,750.522 L765.743,641.266 L751.338,616.317 M761.083,579.95 L786.031,565.546 L619.744,277.528 M609.799,260.303 L443.512,-27.715 L418.563,-13.311 M382.197,-23.055 L367.792,-48.004 L178.555,61.252 M161.523,71.086 L-27.715,180.342 L-13.311,205.291"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M355.831,844.663 L370.235,869.612 L559.377,760.411 M576.601,750.467 L765.743,641.266 L751.338,616.317 M761.083,579.95 L786.031,565.546 L619.744,277.528 M609.799,260.303 L443.512,-27.715 L418.563,-13.311 M382.197,-23.055 L367.792,-48.004 L178.651,61.197 M161.427,71.141 L-27.715,180.342 L-13.311,205.291"/>
               <g>
                 <g stroke-dasharray="none">
                   <path d="M354.831,843.663L356.831,843.663L356.831,845.663L354.831,845.663z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(330,558.667,752.959) scale(1,1) translate(558.667,752.959)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">5.8</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(330,558.57,753.015) scale(1,1) translate(558.57,753.015)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">5.8</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(60,617.196,259.497) scale(1,1) translate(617.196,259.497)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">8.7</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">8.7</tspan>
               </text>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(330,160.717,63.69) scale(1,1) translate(160.717,63.69)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">5.8</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(330,160.62,63.745) scale(1,1) translate(160.62,63.745)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">5.8</tspan>
               </text>
             </g>
           </g>
@@ -188,51 +184,84 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(44.917,395.902,12.18) scale(1,1) translate(395.902,12.18)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(359.83,201.797,-61.961) scale(1,1) translate(201.797,-61.961)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(314.9,12.168,22.87) scale(1,1) translate(12.168,22.87)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(314.9,156.602,-93.736) scale(1,1) translate(156.602,-93.736)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(44.917,415.42,59.885) scale(1,1) translate(415.42,59.885)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.56</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.92</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M156.611,-88.922 L161.433,-84.116 L154.216,-81.696 L156.611,-88.922 z"/>
+              <path d="M424.388,83.25 L429.196,78.428 L431.613,85.646 L424.388,83.25 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M175.142,-107.518 L179.964,-102.712 L182.359,-109.937 L175.142,-107.518 z"/>
+              <path d="M405.798,64.713 L410.605,59.892 L403.381,57.495 L405.798,64.713 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(314.9,154.86,-91.988) scale(1,1) translate(154.86,-91.988)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(44.917,345.641,-9.692) scale(1,1) translate(345.641,-9.692)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.38</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.97</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M154.869,-87.174 L159.691,-82.368 L152.474,-79.948 L154.869,-87.174 z"/>
+              <path d="M354.61,13.673 L359.417,8.852 L361.835,16.07 L354.61,13.673 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M173.4,-105.77 L178.222,-100.964 L180.617,-108.189 L173.4,-105.77 z"/>
+              <path d="M336.02,-4.864 L340.827,-9.685 L333.602,-12.082 L336.02,-4.864 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(314.9,31.065,32.24) scale(1,1) translate(31.065,32.24)" opacity="1">
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(359.83,268.741,-42.16) scale(1,1) translate(268.741,-42.16)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.5</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M286.065,-31.998 L286.045,-38.807 L292.863,-35.423 L286.065,-31.998 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M265.368,-31.937 L265.347,-38.745 L258.549,-35.321 L265.368,-31.937 z"/>
+            </g>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(359.83,134.744,-41.763) scale(1,1) translate(134.744,-41.763)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.5</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M152.067,-31.601 L152.047,-38.41 L158.866,-35.026 L152.067,-31.601 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M131.37,-31.54 L131.35,-38.348 L124.552,-34.924 L131.37,-31.54 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(314.9,58.284,4.927) scale(1,1) translate(58.284,4.927)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.44</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.98</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M54.428,23.264 L49.605,18.458 L56.822,16.039 L54.428,23.264 z"/>
+              <path d="M81.646,-4.049 L76.823,-8.855 L84.04,-11.275 L81.646,-4.049 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M35.896,41.86 L31.074,37.054 L28.679,44.28 L35.896,41.86 z"/>
+              <path d="M63.115,14.547 L58.292,9.741 L55.898,16.966 L63.115,14.547 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(314.9,-11.307,74.76) scale(1,1) translate(-11.307,74.76)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.92</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M12.055,65.784 L7.233,60.979 L14.45,58.559 L12.055,65.784 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M-6.476,84.38 L-11.298,79.574 L-13.693,86.8 L-6.476,84.38 z"/>
             </g>
           </g>
           <g width="254.51" height="361.709" transform="scale(1,1) translate(749.421,1634.595)">
@@ -254,22 +283,22 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(284.917,-39.633,74.384) scale(1,1) translate(-39.633,74.384)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(59.83,-1.997,260.704) scale(1,1) translate(-1.997,260.704)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(14.9,151.571,384.633) scale(1,1) translate(151.571,384.633)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(59.83,-65.375,111.88) scale(1,1) translate(-65.375,111.88)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.81</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.81</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
@@ -280,7 +309,7 @@ function Yantra() {
             </g>
             <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(59.83,21.383,261.128) scale(1,1) translate(21.383,261.128)" opacity="1">
               <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
@@ -309,22 +338,22 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(344.917,89.577,388.864) scale(1,1) translate(89.577,388.864)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(299.83,249.071,272.644) scale(1,1) translate(249.071,272.644)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(74.9,289.141,60.73) scale(1,1) translate(289.141,60.73)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">2.2</tspan>
               </text>
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(299.83,266.22,202.529) scale(1,1) translate(266.22,202.529)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.37</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.37</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
@@ -336,7 +365,7 @@ function Yantra() {
           </g>
           <g width="94.488" height="94.488" transform="rotate(60,762.222,1893.306) scale(1,1) translate(714.978,1846.062)">
             <g width="94.488" height="94.488">
-              <g transform="scale(1.6060405309221817,1.6531342602414498) translate(0,0)">
+              <g transform="scale(1.606040530922182,1.653134260241448) translate(0,0)">
                 <g>
                   <g width="56.833" height="43.824" transform="scale(1,1) translate(0.5,12.833)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -361,7 +390,7 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(40.3,-19.617)" opacity="0">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -372,7 +401,7 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,100.488,54.189) scale(1,1) translate(100.488,54.189)" opacity="0">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -384,7 +413,7 @@ function Yantra() {
           </g>
           <g width="94.488" height="94.488" transform="rotate(300,1944.923,1899.97) scale(1,1) translate(1897.678,1852.726)">
             <g width="94.488" height="94.488">
-              <g transform="scale(1.6060405309221817,1.6531342602414498) translate(0,0)">
+              <g transform="scale(1.60604053092218,1.653134260241448) translate(0,0)">
                 <g>
                   <g width="56.833" height="43.824" transform="scale(1,1) translate(0.5,12.833)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -409,7 +438,7 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(40.3,-19.617)" opacity="0">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -420,7 +449,7 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(90,114.105,40.3) scale(1,1) translate(114.105,40.3)" opacity="0">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -432,7 +461,7 @@ function Yantra() {
           </g>
           <g width="94.488" height="94.488" transform="rotate(180,1355.65,868.328) scale(1,1) translate(1308.406,821.084)">
             <g width="94.488" height="94.488">
-              <g transform="scale(1.6060405309221817,1.6531342602414498) translate(0,0)">
+              <g transform="scale(1.60604053092218,1.65313426024145) translate(0,0)">
                 <g>
                   <g width="56.833" height="43.824" transform="scale(1,1) translate(0.5,12.833)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -457,7 +486,7 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(180,54.189,-6) scale(1,1) translate(54.189,-6)" opacity="0">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -468,7 +497,7 @@ function Yantra() {
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="rotate(90,114.105,40.3) scale(1,1) translate(114.105,40.3)" opacity="0">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -726,7 +755,7 @@ function Yantra() {
           </g>
           <g width="157.48" height="23.622" transform="rotate(105,772.449,1715.543) scale(1,1) translate(693.709,1703.732)">
             <g width="157.48" height="23.622">
-              <g transform="scale(2.045198287659169,1.749782307415916) translate(0,0)">
+              <g transform="scale(2.0451982876591694,1.7497823074159224) translate(0,0)">
                 <g>
                   <g width="75" height="12.5" transform="scale(1,1) translate(0.5,0.5)">
                     <g stroke-opacity="1" stroke="#000000" opacity="1" stroke-width="1" stroke-dasharray="none" width="75" height="12.5" transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#FFFFFF">
@@ -751,7 +780,7 @@ function Yantra() {
             </g>
             <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(180,81.532,-6) scale(1,1) translate(81.532,-6)" opacity="0">
               <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -760,16 +789,16 @@ function Yantra() {
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
               <path d="M84.936,-16.212 L84.936,-9.404 L91.744,-12.808 L84.936,-16.212 z"/>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(270,163.48,18.644) scale(1,1) translate(163.48,18.644)" opacity="0">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">0.3</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,163.48,18.755) scale(1,1) translate(163.48,18.755)" opacity="0">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.3</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,1.574 L166.884,1.574 L170.289,-5.235 L173.693,1.574 z"/>
+              <path d="M173.693,1.462 L166.884,1.462 L170.289,-5.346 L173.693,1.462 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,22.049 L166.884,22.049 L170.289,28.857 L173.693,22.049 z"/>
+              <path d="M173.693,22.16 L166.884,22.16 L170.289,28.968 L173.693,22.16 z"/>
             </g>
           </g>
           <g width="157.48" height="23.622" transform="rotate(15,921.942,1974.488) scale(1,1) translate(843.202,1962.677)">
@@ -799,7 +828,7 @@ function Yantra() {
             </g>
             <g width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(75.948,-19.617)" opacity="0">
               <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -808,16 +837,16 @@ function Yantra() {
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
               <path d="M84.936,-16.212 L84.936,-9.404 L91.744,-12.808 L84.936,-16.212 z"/>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(270,163.48,18.644) scale(1,1) translate(163.48,18.644)" opacity="0">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">0.3</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,163.48,18.755) scale(1,1) translate(163.48,18.755)" opacity="0">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.3</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,1.574 L166.884,1.574 L170.289,-5.235 L173.693,1.574 z"/>
+              <path d="M173.693,1.462 L166.884,1.462 L170.289,-5.346 L173.693,1.462 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,22.049 L166.884,22.049 L170.289,28.857 L173.693,22.049 z"/>
+              <path d="M173.693,22.16 L166.884,22.16 L170.289,28.968 L173.693,22.16 z"/>
             </g>
           </g>
           <g width="157.48" height="23.622" transform="rotate(255,1938.054,1715.543) scale(1,1) translate(1859.313,1703.732)">
@@ -847,7 +876,7 @@ function Yantra() {
             </g>
             <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(180,81.532,-6) scale(1,1) translate(81.532,-6)" opacity="0">
               <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -856,16 +885,16 @@ function Yantra() {
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
               <path d="M84.936,-16.212 L84.936,-9.404 L91.744,-12.808 L84.936,-16.212 z"/>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(90,177.097,4.978) scale(1,1) translate(177.097,4.978)" opacity="0">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">0.3</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(90,177.097,4.867) scale(1,1) translate(177.097,4.867)" opacity="0">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.3</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,1.574 L166.884,1.574 L170.289,-5.235 L173.693,1.574 z"/>
+              <path d="M173.693,1.462 L166.884,1.462 L170.289,-5.346 L173.693,1.462 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,22.049 L166.884,22.049 L170.289,28.857 L173.693,22.049 z"/>
+              <path d="M173.693,22.16 L166.884,22.16 L170.289,28.968 L173.693,22.16 z"/>
             </g>
           </g>
           <g width="157.48" height="23.622" transform="rotate(345,1791.184,1974.376) scale(1,1) translate(1712.443,1962.565)">
@@ -895,7 +924,7 @@ function Yantra() {
             </g>
             <g width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(75.948,-19.617)" opacity="0">
               <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -904,16 +933,16 @@ function Yantra() {
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
               <path d="M84.936,-16.212 L84.936,-9.404 L91.744,-12.808 L84.936,-16.212 z"/>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(90,177.097,4.978) scale(1,1) translate(177.097,4.978)" opacity="0">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">0.3</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(90,177.097,4.867) scale(1,1) translate(177.097,4.867)" opacity="0">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.3</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,1.574 L166.884,1.574 L170.289,-5.235 L173.693,1.574 z"/>
+              <path d="M173.693,1.462 L166.884,1.462 L170.289,-5.346 L173.693,1.462 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,22.049 L166.884,22.049 L170.289,28.857 L173.693,22.049 z"/>
+              <path d="M173.693,22.16 L166.884,22.16 L170.289,28.968 L173.693,22.16 z"/>
             </g>
           </g>
           <g width="157.48" height="23.622" transform="rotate(135,1206.44,966.582) scale(1,1) translate(1127.7,954.771)">
@@ -943,7 +972,7 @@ function Yantra() {
             </g>
             <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(180,81.532,-6) scale(1,1) translate(81.532,-6)" opacity="0">
               <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -952,16 +981,16 @@ function Yantra() {
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
               <path d="M84.936,-16.212 L84.936,-9.404 L91.744,-12.808 L84.936,-16.212 z"/>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(270,163.48,18.644) scale(1,1) translate(163.48,18.644)" opacity="0">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">0.3</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,163.48,18.755) scale(1,1) translate(163.48,18.755)" opacity="0">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.3</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,1.574 L166.884,1.574 L170.289,-5.235 L173.693,1.574 z"/>
+              <path d="M173.693,1.462 L166.884,1.462 L170.289,-5.346 L173.693,1.462 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,22.049 L166.884,22.049 L170.289,28.857 L173.693,22.049 z"/>
+              <path d="M173.693,22.16 L166.884,22.16 L170.289,28.968 L173.693,22.16 z"/>
             </g>
           </g>
           <g width="157.48" height="23.622" transform="rotate(45,1505.363,965.508) scale(1,1) translate(1426.623,953.697)">
@@ -991,7 +1020,7 @@ function Yantra() {
             </g>
             <g width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(75.948,-19.617)" opacity="0">
               <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">2</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1000,16 +1029,16 @@ function Yantra() {
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
               <path d="M84.936,-16.212 L84.936,-9.404 L91.744,-12.808 L84.936,-16.212 z"/>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(270,163.48,18.644) scale(1,1) translate(163.48,18.644)" opacity="0">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">0.3</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,163.48,18.755) scale(1,1) translate(163.48,18.755)" opacity="0">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.3</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,1.574 L166.884,1.574 L170.289,-5.235 L173.693,1.574 z"/>
+              <path d="M173.693,1.462 L166.884,1.462 L170.289,-5.346 L173.693,1.462 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M173.693,22.049 L166.884,22.049 L170.289,28.857 L173.693,22.049 z"/>
+              <path d="M173.693,22.16 L166.884,22.16 L170.289,28.968 L173.693,22.16 z"/>
             </g>
           </g>
           <g width="255.501" height="447.052" transform="scale(1,1) translate(899.267,1558.652)">
@@ -1305,26 +1334,26 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(340.711,392.664,122.807) scale(1,1) translate(392.664,122.807)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.16</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.16</tspan>
               </text>
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(2.706,270.102,147.865) scale(1,1) translate(270.102,147.865)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(19.467,151.37,113.167) scale(1,1) translate(151.37,113.167)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.17</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.17</tspan>
               </text>
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(30,19.224,53.605) scale(1,1) translate(19.224,53.605)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.35</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.35</tspan>
               </text>
             </g>
           </g>
-          <g width="168.02" height="0" transform="scale(1,1) translate(1011.017,1999.704)">
+          <g width="168.02" height="0" transform="scale(1,1) translate(1027.017,2005.704)">
             <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
               <path d="M0,0 L168.02,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
               <g>
@@ -1343,12 +1372,12 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.288,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
           <g width="34.396" height="33.2" transform="scale(1,1) translate(1189.006,2396.305)">
-            <g stroke="#a831d6" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" width="34.396" height="33.2" transform="scale(1,1) translate(0,0)" fill="none">
+            <g stroke="#A831D6" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" width="34.396" height="33.2" transform="scale(1,1) translate(0,0)" fill="none">
               <rect width="34.396" height="33.2"/>
             </g>
           </g>
@@ -1402,26 +1431,26 @@ function Yantra() {
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-26.622,0 L-55.43,0 L-55.43,218.513 M-55.43,238.18 L-55.43,456.693 L-26.622,456.693 M0,483.315 L0,512.123 L332.575,512.123 M352.464,512.123 L685.039,512.123 L685.039,483.315 M711.661,456.693 L740.47,456.693 L740.47,238.18 M740.47,218.513 L740.47,0 L711.661,0"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-26.622,0 L-55.43,0 L-55.43,218.402 M-55.43,238.291 L-55.43,456.693 L-26.622,456.693 M0,483.315 L0,512.123 L332.575,512.123 M352.464,512.123 L685.039,512.123 L685.039,483.315 M711.661,456.693 L740.47,456.693 L740.47,238.291 M740.47,218.402 L740.47,0 L711.661,0"/>
               <g>
                 <g stroke-dasharray="none">
                   <path d="M-27.622,-1L-25.622,-1L-25.622,1L-27.622,1z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(270,-62.239,235.18) scale(1,1) translate(-62.239,235.18)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">5.8</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,-62.239,235.291) scale(1,1) translate(-62.239,235.291)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">5.8</tspan>
               </text>
             </g>
             <g width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(335.575,505.315)" opacity="1">
               <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">8.7</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">8.7</tspan>
               </text>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(270,733.661,235.18) scale(1,1) translate(733.661,235.18)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">5.8</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,733.661,235.291) scale(1,1) translate(733.661,235.291)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">5.8</tspan>
               </text>
             </g>
           </g>
@@ -1444,7 +1473,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.288,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
@@ -1467,7 +1496,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.288,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
@@ -1490,7 +1519,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.288,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
@@ -1513,7 +1542,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.288,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
@@ -1536,7 +1565,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.288,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
@@ -1559,7 +1588,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.288,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
@@ -1582,80 +1611,80 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(74.018,-50.428)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.13</tspan>
               </text>
             </g>
           </g>
           <g width="0" height="448.819" transform="scale(1,1) translate(1180.952,1993.304)">
             <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M0,448.819 L0,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <path d="M0,0 L0,448.819" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M-11.811,437.008L11.811,437.008L11.811,460.63L-11.811,460.63z" stroke-width="0" fill="none"/>
+                  <path d="M-11.811,-11.811L11.811,-11.811L11.811,11.811L-11.811,11.811z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-14.811,448.819 L-43.619,448.819 L-43.619,234.243 M-43.619,214.576 L-43.619,0 L-14.811,0"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-14.811,0 L-43.619,0 L-43.619,214.465 M-43.619,234.354 L-43.619,448.819 L-14.811,448.819"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M-15.811,447.819L-13.811,447.819L-13.811,449.819L-15.811,449.819z" stroke-width="0" fill="none"/>
+                  <path d="M-15.811,-1L-13.811,-1L-13.811,1L-15.811,1z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(270,-50.428,231.243) scale(1,1) translate(-50.428,231.243)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">5.7</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,-50.428,231.354) scale(1,1) translate(-50.428,231.354)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">5.7</tspan>
               </text>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,-30.428,432.103) scale(1,1) translate(-30.428,432.103)" opacity="1">
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(270,-30.428,105.675) scale(1,1) translate(-30.428,105.675)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.7</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M-20.215,88.382 L-27.024,88.382 L-23.619,81.574 L-20.215,88.382 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M-20.215,109.079 L-27.024,109.079 L-23.619,115.888 L-20.215,109.079 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,-30.428,221.907) scale(1,1) translate(-30.428,221.907)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.67</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.76</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,435.507 L-20.215,435.507 L-23.619,442.315 L-27.024,435.507 z"/>
+              <path d="M-20.215,199.059 L-27.024,199.059 L-23.619,192.25 L-20.215,199.059 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,409.254 L-20.215,409.254 L-23.619,402.446 L-27.024,409.254 z"/>
+              <path d="M-20.215,225.311 L-27.024,225.311 L-23.619,232.12 L-20.215,225.311 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,-30.428,323.274) scale(1,1) translate(-30.428,323.274)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,-30.428,332.264) scale(1,1) translate(-30.428,332.264)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.67</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.62</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,326.678 L-20.215,326.678 L-23.619,333.487 L-27.024,326.678 z"/>
+              <path d="M-20.215,309.416 L-27.024,309.416 L-23.619,302.607 L-20.215,309.416 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,300.426 L-20.215,300.426 L-23.619,293.617 L-27.024,300.426 z"/>
+              <path d="M-20.215,335.669 L-27.024,335.669 L-23.619,342.477 L-20.215,335.669 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,-30.428,214.414) scale(1,1) translate(-30.428,214.414)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,-30.428,435.599) scale(1,1) translate(-30.428,435.599)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.67</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.58</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,217.818 L-20.215,217.818 L-23.619,224.626 L-27.024,217.818 z"/>
+              <path d="M-20.215,412.75 L-27.024,412.75 L-23.619,405.942 L-20.215,412.75 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,191.565 L-20.215,191.565 L-23.619,184.757 L-27.024,191.565 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,-30.428,106.454) scale(1,1) translate(-30.428,106.454)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.65</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,109.858 L-20.215,109.858 L-23.619,116.666 L-27.024,109.858 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-27.024,83.605 L-20.215,83.605 L-23.619,76.797 L-27.024,83.605 z"/>
+              <path d="M-20.215,439.003 L-27.024,439.003 L-23.619,445.811 L-20.215,439.003 z"/>
             </g>
           </g>
-          <g width="1.19" height="442.324" transform="scale(1,1) translate(1532.738,1999.798)">
+          <g width="1.186" height="442.324" transform="scale(1,1) translate(1532.738,1999.798)">
             <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M0,442.324 L1.19,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <path d="M0,442.324 L1.186,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
               <g>
                 <g stroke-dasharray="none">
                   <path d="M-11.811,430.513L11.811,430.513L11.811,454.135L-11.811,454.135z" stroke-width="0" fill="none"/>
@@ -1663,112 +1692,64 @@ function Yantra() {
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-14.811,442.285 L-43.619,442.207 L-43.058,233.767 M-42.99,208.323 L-42.429,-0.117 L-13.62,-0.04"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-14.811,442.285 L-43.619,442.207 L-43.06,233.767 M-42.992,208.323 L-42.433,-0.117 L-13.625,-0.04"/>
               <g>
                 <g stroke-dasharray="none">
                   <path d="M-15.811,441.285L-13.811,441.285L-13.811,443.285L-15.811,443.285z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-49.858,230.749) scale(1,1) translate(-49.858,230.749)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-49.86,230.749) scale(1,1) translate(-49.86,230.749)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">5.62</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">5.62</tspan>
               </text>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-30.384,426.195) scale(1,1) translate(-30.384,426.195)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-30.393,429.201) scale(1,1) translate(-30.393,429.201)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.65</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.989,429.608 L-20.181,429.626 L-23.604,436.426 L-26.989,429.608 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.919,403.355 L-20.11,403.374 L-23.496,396.556 L-26.919,403.355 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-30.093,317.96) scale(1,1) translate(-30.093,317.96)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.67</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.58</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.698,321.373 L-19.89,321.391 L-23.312,328.19 L-26.698,321.373 z"/>
+              <path d="M-26.998,432.614 L-20.189,432.633 L-23.612,439.432 L-26.998,432.614 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.627,295.12 L-19.819,295.139 L-23.205,288.321 L-26.627,295.12 z"/>
+              <path d="M-26.927,406.362 L-20.119,406.38 L-23.505,399.562 L-26.927,406.362 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-29.804,210.599) scale(1,1) translate(-29.804,210.599)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-30.116,325.969) scale(1,1) translate(-30.116,325.969)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.63</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.62</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.409,214.013 L-19.601,214.031 L-23.023,220.83 L-26.409,214.013 z"/>
+              <path d="M-26.721,329.382 L-19.912,329.401 L-23.335,336.2 L-26.721,329.382 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.338,187.76 L-19.53,187.778 L-22.916,180.961 L-26.338,187.76 z"/>
+              <path d="M-26.65,303.13 L-19.842,303.148 L-23.228,296.33 L-26.65,303.13 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-29.508,100.589) scale(1,1) translate(-29.508,100.589)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-29.82,215.603) scale(1,1) translate(-29.82,215.603)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.74</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.76</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.113,104.002 L-19.305,104.021 L-22.727,110.82 L-26.113,104.002 z"/>
+              <path d="M-26.425,219.016 L-19.616,219.034 L-23.039,225.833 L-26.425,219.016 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M-26.042,77.75 L-19.234,77.768 L-22.62,70.951 L-26.042,77.75 z"/>
+              <path d="M-26.354,192.763 L-19.546,192.782 L-22.932,185.964 L-26.354,192.763 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270.154,-29.511,100.59) scale(1,1) translate(-29.511,100.59)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.74</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M-26.116,104.003 L-19.308,104.021 L-22.73,110.82 L-26.116,104.003 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M-26.046,77.75 L-19.238,77.768 L-22.623,70.951 L-26.046,77.75 z"/>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(90,1159.992,2361.246) scale(1,1) translate(1131.992,2333.246)">
-            <g width="56" height="56">
-              <g transform="scale(0.9545400133127842,0.9783197491540455) translate(0,0)">
-                <g>
-                  <g width="56.667" height="43.908" transform="scale(1,1) translate(0.5,12.833)">
-                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
-                      <path d="M56.667,0 L56.667,0 L56.536,2.235 L56.311,4.344 L56.004,6.345 L55.627,8.25 L55.186,10.072 L54.687,11.816 L54.137,13.492 L53.538,15.102 L52.894,16.654 L52.209,18.149 L51.484,19.592 L50.721,20.984 L49.923,22.329 L49.09,23.629 L48.225,24.884 L47.328,26.097 L46.4,27.269 L45.441,28.4 L44.453,29.492 L43.437,30.546 L42.391,31.562 L41.318,32.54 L40.217,33.481 L39.088,34.385 L37.932,35.252 L36.748,36.083 L35.536,36.877 L34.296,37.633 L33.028,38.352 L31.732,39.033 L30.407,39.676 L29.053,40.279 L27.668,40.842 L26.252,41.364 L24.805,41.843 L23.324,42.278 L21.81,42.668 L20.259,43.01 L18.671,43.302 L17.044,43.541 L15.374,43.725 L13.66,43.849 L11.898,43.908 L10.083,43.898 L8.212,43.812 L6.276,43.641 L4.27,43.375 L2.182,43 L0,42.5 L0,42.5 L0,0.5" fill="none" stroke-width="1" stroke-dasharray="none"/>
-                      <g>
-                        <g stroke-dasharray="none">
-                          <path d="M55.667,-1L57.667,-1L57.667,1L55.667,1z" stroke-width="0" fill="none"/>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                  <g width="57" height="14" transform="scale(1,1) translate(0.667,0)">
-                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="57" height="14" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
-                      <rect width="57" height="14"/>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
-            </g>
-          </g>
-          <g width="56" height="56" transform="rotate(90,1159.992,2252.466) scale(1,1) translate(1131.992,2224.466)">
+          <g width="56" height="56" transform="rotate(90,1159.992,2368.238) scale(1,1) translate(1131.992,2340.238)">
             <g width="56" height="56">
               <g transform="scale(0.954540013312784,0.9783197491540453) translate(0,0)">
                 <g>
@@ -1795,7 +1776,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1806,7 +1787,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1816,7 +1797,7 @@ function Yantra() {
               <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(90,1159.992,2143.526) scale(1,1) translate(1131.992,2115.526)">
+          <g width="56" height="56" transform="rotate(90,1159.992,2263.454) scale(1,1) translate(1131.992,2235.454)">
             <g width="56" height="56">
               <g transform="scale(0.954540013312784,0.9783197491540453) translate(0,0)">
                 <g>
@@ -1843,7 +1824,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1854,7 +1835,55 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
+            </g>
+          </g>
+          <g width="56" height="56" transform="rotate(90,1159.992,2147.524) scale(1,1) translate(1131.992,2119.524)">
+            <g width="56" height="56">
+              <g transform="scale(0.954540013312784,0.9783197491540453) translate(0,0)">
+                <g>
+                  <g width="56.667" height="43.908" transform="scale(1,1) translate(0.5,12.833)">
+                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
+                      <path d="M56.667,0 L56.667,0 L56.536,2.235 L56.311,4.344 L56.004,6.345 L55.627,8.25 L55.186,10.072 L54.687,11.816 L54.137,13.492 L53.538,15.102 L52.894,16.654 L52.209,18.149 L51.484,19.592 L50.721,20.984 L49.923,22.329 L49.09,23.629 L48.225,24.884 L47.328,26.097 L46.4,27.269 L45.441,28.4 L44.453,29.492 L43.437,30.546 L42.391,31.562 L41.318,32.54 L40.217,33.481 L39.088,34.385 L37.932,35.252 L36.748,36.083 L35.536,36.877 L34.296,37.633 L33.028,38.352 L31.732,39.033 L30.407,39.676 L29.053,40.279 L27.668,40.842 L26.252,41.364 L24.805,41.843 L23.324,42.278 L21.81,42.668 L20.259,43.01 L18.671,43.302 L17.044,43.541 L15.374,43.725 L13.66,43.849 L11.898,43.908 L10.083,43.898 L8.212,43.812 L6.276,43.641 L4.27,43.375 L2.182,43 L0,42.5 L0,42.5 L0,0.5" fill="none" stroke-width="1" stroke-dasharray="none"/>
+                      <g>
+                        <g stroke-dasharray="none">
+                          <path d="M55.667,-1L57.667,-1L57.667,1L55.667,1z" stroke-width="0" fill="none"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g width="57" height="14" transform="scale(1,1) translate(0.667,0)">
+                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="57" height="14" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
+                      <rect width="57" height="14"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1891,7 +1920,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1902,7 +1931,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1912,55 +1941,7 @@ function Yantra() {
               <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(270,1553.578,2362.563) scale(1,1) translate(1525.578,2334.563)">
-            <g width="56" height="56">
-              <g transform="scale(0.9518466879932133,0.9797575715697662) translate(0,0)">
-                <g>
-                  <g width="56.833" height="43.824" transform="scale(1,1) translate(0.5,12.833)">
-                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
-                      <path d="M0,0 L0,0 L0.154,2.213 L0.398,4.305 L0.721,6.291 L1.113,8.185 L1.567,9.996 L2.077,11.732 L2.639,13.4 L3.247,15.005 L3.9,16.551 L4.593,18.041 L5.326,19.48 L6.096,20.869 L6.901,22.211 L7.739,23.508 L8.611,24.761 L9.514,25.972 L10.447,27.142 L11.411,28.272 L12.403,29.363 L13.425,30.415 L14.474,31.43 L15.552,32.408 L16.657,33.349 L17.789,34.253 L18.949,35.12 L20.136,35.951 L21.351,36.745 L22.593,37.502 L23.864,38.221 L25.162,38.903 L26.489,39.547 L27.845,40.152 L29.232,40.717 L30.648,41.24 L32.097,41.722 L33.578,42.16 L35.092,42.553 L36.642,42.898 L38.229,43.194 L39.855,43.439 L41.523,43.627 L43.234,43.757 L44.992,43.824 L46.802,43.823 L48.668,43.746 L50.595,43.587 L52.592,43.335 L54.667,42.978 L56.833,42.5 L56.833,42.5 L56.833,0.5" fill="none" stroke-width="1" stroke-dasharray="none"/>
-                      <g>
-                        <g stroke-dasharray="none">
-                          <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none"/>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                  <g width="57" height="14" transform="scale(1,1) translate(0.667,0)">
-                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="57" height="14" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
-                      <rect width="57" height="14"/>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,75.617,18.278) scale(1,1) translate(75.617,18.278)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
-            </g>
-          </g>
-          <g width="56" height="56" transform="rotate(270,1553.86,2253.783) scale(1,1) translate(1525.86,2225.783)">
+          <g width="56" height="56" transform="rotate(270,1553.578,2368.576) scale(1,1) translate(1525.578,2340.576)">
             <g width="56" height="56">
               <g transform="scale(0.9518466879932131,0.9797575715697661) translate(0,0)">
                 <g>
@@ -1987,7 +1968,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -1998,7 +1979,55 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,75.617,18.278) scale(1,1) translate(75.617,18.278)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
+            </g>
+          </g>
+          <g width="56" height="56" transform="rotate(270,1553.86,2263.789) scale(1,1) translate(1525.86,2235.789)">
+            <g width="56" height="56">
+              <g transform="scale(0.9518466879932131,0.9797575715697661) translate(0,0)">
+                <g>
+                  <g width="56.833" height="43.824" transform="scale(1,1) translate(0.5,12.833)">
+                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
+                      <path d="M0,0 L0,0 L0.154,2.213 L0.398,4.305 L0.721,6.291 L1.113,8.185 L1.567,9.996 L2.077,11.732 L2.639,13.4 L3.247,15.005 L3.9,16.551 L4.593,18.041 L5.326,19.48 L6.096,20.869 L6.901,22.211 L7.739,23.508 L8.611,24.761 L9.514,25.972 L10.447,27.142 L11.411,28.272 L12.403,29.363 L13.425,30.415 L14.474,31.43 L15.552,32.408 L16.657,33.349 L17.789,34.253 L18.949,35.12 L20.136,35.951 L21.351,36.745 L22.593,37.502 L23.864,38.221 L25.162,38.903 L26.489,39.547 L27.845,40.152 L29.232,40.717 L30.648,41.24 L32.097,41.722 L33.578,42.16 L35.092,42.553 L36.642,42.898 L38.229,43.194 L39.855,43.439 L41.523,43.627 L43.234,43.757 L44.992,43.824 L46.802,43.823 L48.668,43.746 L50.595,43.587 L52.592,43.335 L54.667,42.978 L56.833,42.5 L56.833,42.5 L56.833,0.5" fill="none" stroke-width="1" stroke-dasharray="none"/>
+                      <g>
+                        <g stroke-dasharray="none">
+                          <path d="M-1,-1L1,-1L1,1L-1,1z" stroke-width="0" fill="none"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g width="57" height="14" transform="scale(1,1) translate(0.667,0)">
+                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="57" height="14" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
+                      <rect width="57" height="14"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,75.617,18.278) scale(1,1) translate(75.617,18.278)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2035,7 +2064,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2046,7 +2075,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,75.617,18.278) scale(1,1) translate(75.617,18.278)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2083,7 +2112,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2094,7 +2123,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,75.617,18.278) scale(1,1) translate(75.617,18.278)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2104,88 +2133,88 @@ function Yantra() {
               <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
             </g>
           </g>
-          <g width="345.364" height="600.71" transform="scale(1,1) translate(797.198,1028.915)">
+          <g width="345.364" height="600.71" transform="scale(1,1) translate(804.198,1024.915)">
             <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M345.364,0 L0,600.71" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <path d="M0,600.71 L345.364,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M333.553,-11.811L357.175,-11.811L357.175,11.811L333.553,11.811z" stroke-width="0" fill="none"/>
+                  <path d="M-11.811,588.899L11.811,588.899L11.811,612.521L-11.811,612.521z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M332.523,-7.382 L307.548,-21.741 L139.768,270.089 M129.966,287.139 L-37.815,578.97 L-12.84,593.328"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-12.84,593.328 L-37.815,578.97 L129.91,287.236 M139.823,269.993 L307.548,-21.741 L332.523,-7.382"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M331.523,-8.382L333.523,-8.382L333.523,-6.382L331.523,-6.382z" stroke-width="0" fill="none"/>
+                  <path d="M-13.84,592.328L-11.84,592.328L-11.84,594.328L-13.84,594.328z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="13.666666030883789" height="13.616665840148926" transform="rotate(299.896,125.558,281.145) scale(1,1) translate(125.558,281.145)" opacity="1">
-              <text width="13.666666030883789" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.666666030883789">8.8</tspan>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(299.896,125.503,281.241) scale(1,1) translate(125.503,281.241)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">8.8</tspan>
               </text>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(299.896,256.446,93.612) scale(1,1) translate(256.446,93.612)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(299.896,-0.198,540.007) scale(1,1) translate(-0.198,540.007)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.94</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.58</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M276.687,78.894 L270.785,75.501 L277.13,71.295 L276.687,78.894 z"/>
+              <path d="M1.057,544.654 L6.959,548.048 L0.614,552.254 L1.057,544.654 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M263.602,101.653 L257.7,98.26 L257.258,105.859 L263.602,101.653 z"/>
+              <path d="M14.142,521.895 L20.044,525.288 L20.486,517.689 L14.142,521.895 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(299.896,100.537,364.793) scale(1,1) translate(100.537,364.793)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(299.896,100.53,364.805) scale(1,1) translate(100.53,364.805)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.61</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.61</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M120.779,350.075 L114.876,346.681 L121.221,342.476 L120.779,350.075 z"/>
+              <path d="M101.785,369.453 L107.687,372.846 L101.342,377.052 L101.785,369.453 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M107.694,372.834 L101.791,369.441 L101.349,377.04 L107.694,372.834 z"/>
+              <path d="M114.87,346.693 L120.772,350.087 L121.214,342.487 L114.87,346.693 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(299.896,-0.193,539.999) scale(1,1) translate(-0.193,539.999)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(299.896,256.443,93.617) scale(1,1) translate(256.443,93.617)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.58</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.94</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M20.048,525.281 L14.146,521.887 L20.491,517.682 L20.048,525.281 z"/>
+              <path d="M257.697,98.265 L263.6,101.658 L257.255,105.864 L257.697,98.265 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
-              <path d="M6.963,548.04 L1.061,544.647 L0.619,552.246 L6.963,548.04 z"/>
+              <path d="M270.782,75.505 L276.685,78.899 L277.127,71.299 L270.782,75.505 z"/>
             </g>
           </g>
-          <g width="386.103" height="219.444" transform="scale(1,1) translate(511.971,1234.722)">
+          <g width="393.097" height="215.456" transform="scale(1,1) translate(511.971,1234.722)">
             <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M386.103,219.444 L0,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <path d="M0,0 L393.097,215.456" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M374.292,207.633L397.914,207.633L397.914,231.255L374.292,231.255z" stroke-width="0" fill="none"/>
+                  <path d="M-11.811,-11.811L11.811,-11.811L11.811,11.811L-11.811,11.811z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M393.422,206.568 L407.656,181.522 L225.666,78.086 M203.544,65.514 L21.553,-37.922 L7.318,-12.877"/>
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M7.119,-12.988 L20.965,-38.251 L206.357,63.362 M228.67,75.592 L414.062,177.205 L400.215,202.468"/>
               <g>
                 <g stroke-dasharray="none">
-                  <path d="M392.422,205.568L394.422,205.568L394.422,207.568L392.422,207.568z" stroke-width="0" fill="none"/>
+                  <path d="M6.119,-13.988L8.119,-13.988L8.119,-11.988L6.119,-11.988z" stroke-width="0" fill="none"/>
                 </g>
               </g>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(29.612,209.517,61.077) scale(1,1) translate(209.517,61.077)" opacity="1">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(28.727,212.26,58.834) scale(1,1) translate(212.26,58.834)" opacity="1">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">5.64</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">5.69</tspan>
               </text>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(119.896,860.171,1478.038) scale(1,1) translate(832.171,1450.038)">
+          <g width="56" height="56" transform="rotate(119.896,867.162,1474.054) scale(1,1) translate(839.162,1446.054)">
             <g width="56" height="56">
-              <g transform="scale(0.9545400133127842,0.9783197491540455) translate(0,0)">
+              <g transform="scale(0.954540013312784,0.9783197491540453) translate(0,0)">
                 <g>
                   <g width="56.667" height="43.908" transform="scale(1,1) translate(0.5,12.833)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -2210,7 +2239,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2221,7 +2250,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2231,9 +2260,9 @@ function Yantra() {
               <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(119.896,961.681,1302.117) scale(1,1) translate(933.681,1274.117)">
+          <g width="56" height="56" transform="rotate(119.896,968.676,1298.125) scale(1,1) translate(940.676,1270.125)">
             <g width="56" height="56">
-              <g transform="scale(0.9518466879932133,0.9797575715697662) translate(0,0)">
+              <g transform="scale(0.9518466879932131,0.9797575715697661) translate(0,0)">
                 <g>
                   <g width="56.833" height="43.824" transform="scale(1,1) translate(0.5,12.833)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -2258,7 +2287,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2269,7 +2298,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2279,9 +2308,9 @@ function Yantra() {
               <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(119.896,989.921,1252.358) scale(1,1) translate(961.921,1224.358)">
+          <g width="56" height="56" transform="rotate(119.896,996.915,1248.367) scale(1,1) translate(968.915,1220.367)">
             <g width="56" height="56">
-              <g transform="scale(0.9545400133127842,0.9783197491540455) translate(0,0)">
+              <g transform="scale(0.954540013312784,0.9783197491540453) translate(0,0)">
                 <g>
                   <g width="56.667" height="43.908" transform="scale(1,1) translate(0.5,12.833)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -2306,7 +2335,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2317,7 +2346,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2359,7 +2388,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,27.722,-6) scale(1,1) translate(27.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2370,7 +2399,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,33.722) scale(1,1) translate(42,33.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2412,7 +2441,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,27.722,-6) scale(1,1) translate(27.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2423,7 +2452,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,33.722) scale(1,1) translate(42,33.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2434,252 +2463,6 @@ function Yantra() {
             </g>
           </g>
           <g width="36" height="48" transform="rotate(150,2049.973,1503.591) scale(1,1) translate(2031.973,1479.591)">
-            <g width="36" height="48">
-              <g transform="scale(0.95155022931742,0.9473621739987017) translate(0,0)">
-                <g>
-                  <g width="31.5" height="25.833" transform="scale(1,1) translate(3.167,15)">
-                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
-                      <path d="M0.999,0 L0.999,0 L0.884,0.528 L0.776,1.056 L0.675,1.583 L0.582,2.11 L0.496,2.636 L0.417,3.161 L0.345,3.686 L0.28,4.21 L0.222,4.733 L0.171,5.256 L0.126,5.778 L0.088,6.299 L0.057,6.82 L0.033,7.34 L0.015,7.86 L0.004,8.379 L0,8.898 L0.002,9.415 L0.011,9.933 L0.026,10.45 L0.048,10.966 L0.076,11.481 L0.11,11.996 L0.152,12.51 L0.199,13.024 L0.253,13.537 L0.314,14.05 L0.381,14.562 L0.455,15.074 L0.535,15.584 L0.621,16.095 L0.714,16.604 L0.814,17.113 L0.92,17.622 L1.033,18.13 L1.153,18.637 L1.279,19.144 L1.412,19.65 L1.551,20.155 L1.698,20.66 L1.851,21.164 L2.012,21.668 L2.179,22.171 L2.353,22.673 L2.534,23.175 L2.723,23.676 L2.919,24.176 L3.122,24.676 L3.332,25.175 L3.332,25.175 L29.832,25.833 L29.832,25.833 L29.932,25.31 L30.03,24.787 L30.124,24.264 L30.216,23.74 L30.305,23.216 L30.392,22.692 L30.475,22.168 L30.556,21.644 L30.634,21.12 L30.709,20.595 L30.781,20.07 L30.851,19.545 L30.918,19.02 L30.982,18.495 L31.044,17.969 L31.102,17.444 L31.158,16.918 L31.211,16.392 L31.262,15.866 L31.309,15.339 L31.354,14.813 L31.397,14.286 L31.436,13.759 L31.473,13.232 L31.507,12.705 L31.538,12.178 L31.567,11.65 L31.593,11.122 L31.616,10.594 L31.636,10.066 L31.654,9.538 L31.668,9.01 L31.68,8.481 L31.69,7.952 L31.696,7.423 L31.7,6.894 L31.701,6.365 L31.7,5.835 L31.695,5.306 L31.688,4.776 L31.678,4.246 L31.666,3.716 L31.65,3.186 L31.632,2.655 L31.611,2.124 L31.587,1.594 L31.56,1.063 L31.531,0.531 L31.499,0 L31.499,0 L0.999,0 z" stroke-width="1" stroke-dasharray="none"/>
-                    </g>
-                  </g>
-                  <g width="32.667" height="36.5" transform="scale(1,1) translate(2.5,13.667)">
-                    <g width="32.667" height="36.5" transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill-opacity="1" fill="#FFFFFF">
-                      <ellipse rx="16.3335" ry="18.25" cx="16.3335" cy="18.25"/>
-                    </g>
-                  </g>
-                  <g width="17.833" height="4.833" transform="scale(1,1) translate(10,14.333)">
-                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
-                      <path d="M0.706,0 L0.706,0 L0.53,0 L0.53,0 L0.53,0 L0.53,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0,0.806 L0,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.706,4.632 L0.706,4.833 L17.127,4.833 L17.127,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.833,4.028 L17.833,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.127,0.201 L17.127,0 L0.706,0 z" stroke-width="1" stroke-dasharray="none"/>
-                    </g>
-                  </g>
-                  <g width="36.833" height="15" transform="scale(1,1) translate(0.5,0.5)">
-                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
-                      <path d="M3.041,0 L2.365,0 L2.196,0 L2.028,0.165 L1.859,0.165 L1.69,0.33 L1.521,0.33 L1.352,0.495 L1.352,0.495 L1.183,0.659 L1.014,0.659 L1.014,0.824 L1.014,0.824 L0.845,0.989 L0.845,0.989 L0.676,0.989 L0.676,1.154 L0.676,1.154 L0.507,1.319 L0.507,1.319 L0.507,1.484 L0.507,1.484 L0.338,1.648 L0.338,1.648 L0.338,1.813 L0.338,1.813 L0.338,1.978 L0.169,1.978 L0.169,1.978 L0.169,2.143 L0.169,2.143 L0.169,2.308 L0.169,2.308 L0.169,2.473 L0.169,2.473 L0.169,2.637 L0.169,2.637 L0.169,2.802 L0.169,2.802 L0,2.967 L0,12.033 L0.169,12.033 L0.169,12.033 L0.169,12.198 L0.169,12.198 L0.169,12.363 L0.169,12.363 L0.169,12.527 L0.169,12.527 L0.169,12.692 L0.169,12.692 L0.169,12.857 L0.169,12.857 L0.338,13.022 L0.338,13.022 L0.338,13.022 L0.338,13.187 L0.338,13.187 L0.507,13.352 L0.507,13.352 L0.507,13.516 L0.507,13.516 L0.676,13.681 L0.676,13.681 L0.676,13.846 L0.845,13.846 L0.845,14.011 L1.014,14.011 L1.014,14.011 L1.014,14.176 L1.183,14.176 L1.352,14.341 L1.352,14.341 L1.521,14.505 L1.69,14.505 L1.859,14.67 L2.028,14.67 L2.196,14.835 L2.365,14.835 L3.041,15 L33.792,15 L34.468,15 L34.637,15 L34.806,14.835 L34.975,14.835 L35.144,14.67 L35.313,14.67 L35.482,14.505 L35.482,14.505 L35.651,14.341 L35.82,14.341 L35.82,14.176 L35.82,14.176 L35.989,14.011 L35.989,14.011 L36.157,14.011 L36.157,13.846 L36.157,13.846 L36.326,13.681 L36.326,13.681 L36.326,13.516 L36.326,13.516 L36.495,13.352 L36.495,13.352 L36.495,13.187 L36.495,13.187 L36.495,13.022 L36.664,13.022 L36.664,13.022 L36.664,12.857 L36.664,12.857 L36.664,12.692 L36.664,12.692 L36.664,12.527 L36.664,12.527 L36.664,12.363 L36.664,12.363 L36.664,12.198 L36.664,12.198 L36.833,12.033 L36.833,2.967 L36.664,2.967 L36.664,2.967 L36.664,2.802 L36.664,2.802 L36.664,2.637 L36.664,2.637 L36.664,2.473 L36.664,2.473 L36.664,2.308 L36.664,2.308 L36.664,2.143 L36.664,2.143 L36.495,1.978 L36.495,1.978 L36.495,1.978 L36.495,1.813 L36.495,1.813 L36.326,1.648 L36.326,1.648 L36.326,1.484 L36.326,1.484 L36.157,1.319 L36.157,1.319 L36.157,1.154 L35.989,1.154 L35.989,0.989 L35.82,0.989 L35.82,0.989 L35.82,0.824 L35.651,0.824 L35.482,0.659 L35.482,0.659 L35.313,0.495 L35.144,0.495 L34.975,0.33 L34.806,0.33 L34.637,0.165 L34.468,0.165 L33.792,0 L3.041,0 z" stroke-width="1" stroke-dasharray="none"/>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,27.722,-6) scale(1,1) translate(27.722,-6)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M4.874,-16.212 L4.874,-9.404 L-1.935,-12.808 L4.874,-16.212 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M31.126,-16.212 L31.126,-9.404 L37.935,-12.808 L31.126,-16.212 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,33.722) scale(1,1) translate(42,33.722)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M52.212,10.874 L45.404,10.874 L48.808,4.065 L52.212,10.874 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M52.212,37.126 L45.404,37.126 L48.808,43.935 L52.212,37.126 z"/>
-            </g>
-          </g>
-          <g width="88.889" height="166.218" transform="scale(1,1) translate(2013.194,1350.552)">
-            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M88.889,166.218 L0,0" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M77.078,154.407L100.7,154.407L100.7,178.029L77.078,178.029z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M101.95,159.234 L127.354,145.649 L88.909,73.758 M76.91,51.321 L38.465,-20.57 L13.061,-6.985"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M100.95,158.234L102.95,158.234L102.95,160.234L100.95,160.234z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(61.863,84.328,50.755) scale(1,1) translate(84.328,50.755)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.39</tspan>
-              </text>
-            </g>
-          </g>
-          <g width="56" height="56" transform="rotate(150.264,1988.258,1388.749) scale(1,1) translate(1960.258,1360.749)">
-            <g width="56" height="56">
-              <g transform="scale(0.9572652693741203,0.9546540180329651) translate(0,0)">
-                <g>
-                  <g width="56.5" height="43.993" transform="scale(1,1) translate(0.5,0.5)">
-                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
-                      <path d="M56.5,43.993 L56.5,43.993 L56.392,41.736 L56.187,39.609 L55.897,37.594 L55.534,35.676 L55.106,33.845 L54.619,32.092 L54.079,30.41 L53.49,28.793 L52.855,27.236 L52.178,25.736 L51.461,24.29 L50.705,22.893 L49.914,21.545 L49.088,20.244 L48.228,18.986 L47.337,17.771 L46.414,16.598 L45.46,15.465 L44.477,14.371 L43.465,13.317 L42.424,12.3 L41.355,11.322 L40.258,10.38 L39.132,9.476 L37.979,8.608 L36.798,7.778 L35.59,6.985 L34.353,6.229 L33.088,5.511 L31.794,4.831 L30.471,4.189 L29.118,3.587 L27.734,3.026 L26.32,2.506 L24.873,2.029 L23.393,1.596 L21.879,1.21 L20.328,0.871 L18.739,0.583 L17.11,0.348 L15.439,0.17 L13.722,0.052 L11.956,0 L10.136,0.019 L8.258,0.115 L6.315,0.298 L4.299,0.578 L2.199,0.97 L0,1.493 L0,1.493 L0,43.326" fill="none" stroke-width="1" stroke-dasharray="none"/>
-                      <g>
-                        <g stroke-dasharray="none">
-                          <path d="M55.5,42.993L57.5,42.993L57.5,44.993L55.5,44.993z" stroke-width="0" fill="none"/>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                  <g width="56.833" height="14.167" transform="scale(1,1) translate(0.167,44.493)">
-                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="56.833" height="14.167" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
-                      <rect width="56.833" height="14.167"/>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
-            </g>
-          </g>
-          <g width="56" height="56" transform="rotate(150.264,2176.738,1281.086) scale(1,1) translate(2148.738,1253.086)">
-            <g width="56" height="56">
-              <g transform="scale(0.9572652693741203,0.9546540180329651) translate(0,0)">
-                <g>
-                  <g width="56.5" height="43.993" transform="scale(1,1) translate(0.5,0.5)">
-                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
-                      <path d="M56.5,43.993 L56.5,43.993 L56.392,41.736 L56.187,39.609 L55.897,37.594 L55.534,35.676 L55.106,33.845 L54.619,32.092 L54.079,30.41 L53.49,28.793 L52.855,27.236 L52.178,25.736 L51.461,24.29 L50.705,22.893 L49.914,21.545 L49.088,20.244 L48.228,18.986 L47.337,17.771 L46.414,16.598 L45.46,15.465 L44.477,14.371 L43.465,13.317 L42.424,12.3 L41.355,11.322 L40.258,10.38 L39.132,9.476 L37.979,8.608 L36.798,7.778 L35.59,6.985 L34.353,6.229 L33.088,5.511 L31.794,4.831 L30.471,4.189 L29.118,3.587 L27.734,3.026 L26.32,2.506 L24.873,2.029 L23.393,1.596 L21.879,1.21 L20.328,0.871 L18.739,0.583 L17.11,0.348 L15.439,0.17 L13.722,0.052 L11.956,0 L10.136,0.019 L8.258,0.115 L6.315,0.298 L4.299,0.578 L2.199,0.97 L0,1.493 L0,1.493 L0,43.326" fill="none" stroke-width="1" stroke-dasharray="none"/>
-                      <g>
-                        <g stroke-dasharray="none">
-                          <path d="M55.5,42.993L57.5,42.993L57.5,44.993L55.5,44.993z" stroke-width="0" fill="none"/>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                  <g width="56.833" height="14.167" transform="scale(1,1) translate(0.167,44.493)">
-                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="56.833" height="14.167" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
-                      <rect width="56.833" height="14.167"/>
-                    </g>
-                  </g>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
-              </text>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
-            </g>
-            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
-            </g>
-          </g>
-          <g width="279.945" height="133.802" transform="scale(1,1) translate(1879.224,1414.961)">
-            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M0,133.802 L241.741,0 L279.945,68.851" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M-3.937,129.865L3.937,129.865L3.937,137.739L-3.937,137.739z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-3.359,127.733 L-17.31,102.528 L92.429,41.787 M114.691,29.466 L224.431,-31.274 L238.382,-6.069 M247.807,-3.366 L272.997,-17.343 L289.289,12.018 M294.909,22.146 L311.201,51.508 L286.011,65.485"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M-4.359,126.733L-2.359,126.733L-2.359,128.733L-4.359,128.733z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(331.036,91.757,34.378) scale(1,1) translate(91.757,34.378)" opacity="1">
-              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">3.51</tspan>
-              </text>
-            </g>
-            <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(60.975,296.698,11.338) scale(1,1) translate(296.698,11.338)" opacity="1">
-              <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">1</tspan>
-              </text>
-            </g>
-          </g>
-          <g width="38.204" height="68.851" transform="scale(1,1) translate(2000,1481.914)">
-            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M0,0 L38.204,68.851" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M-3.937,-3.937L3.937,-3.937L3.937,3.937L-3.937,3.937z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M6.066,-3.366 L31.256,-17.343 L47.548,12.018 M53.168,22.146 L69.46,51.508 L44.27,65.485"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M5.066,-4.366L7.066,-4.366L7.066,-2.366L5.066,-2.366z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(60.975,54.957,11.338) scale(1,1) translate(54.957,11.338)" opacity="1">
-              <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">1</tspan>
-              </text>
-            </g>
-          </g>
-          <g width="38.204" height="68.851" transform="scale(1,1) translate(1937.5,1520.885)">
-            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
-              <path d="M0,0 L38.204,68.851" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M-3.937,-3.937L3.937,-3.937L3.937,3.937L-3.937,3.937z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
-              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M6.066,-3.366 L31.256,-17.343 L47.548,12.018 M53.168,22.146 L69.46,51.508 L44.27,65.485"/>
-              <g>
-                <g stroke-dasharray="none">
-                  <path d="M5.066,-4.366L7.066,-4.366L7.066,-2.366L5.066,-2.366z" stroke-width="0" fill="none"/>
-                </g>
-              </g>
-            </g>
-            <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(60.975,54.957,11.338) scale(1,1) translate(54.957,11.338)" opacity="1">
-              <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">1</tspan>
-              </text>
-            </g>
-          </g>
-          <g width="36" height="48" transform="rotate(150,2112.716,1468.695) scale(1,1) translate(2094.716,1444.695)">
             <g width="36" height="48">
               <g transform="scale(0.9515502293174259,0.9473621739987017) translate(0,0)">
                 <g>
@@ -2711,7 +2494,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,27.722,-6) scale(1,1) translate(27.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2722,7 +2505,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,33.722) scale(1,1) translate(42,33.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2732,7 +2515,211 @@ function Yantra() {
               <path d="M52.212,37.126 L45.404,37.126 L48.808,43.935 L52.212,37.126 z"/>
             </g>
           </g>
-          <g width="36" height="32" transform="rotate(150,2235.196,1405.522) scale(1,1) translate(2217.196,1389.522)">
+          <g width="144.833" height="254.822" transform="scale(1,1) translate(2013.501,1229.472)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,0 L144.833,254.822" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-11.811,-11.811L11.811,-11.811L11.811,11.811L-11.811,11.811z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M12.877,-7.319 L37.922,-21.554 L104.052,94.797 M116.625,116.918 L182.755,233.269 L157.709,247.504"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M11.877,-8.319L13.877,-8.319L13.877,-6.319L11.877,-6.319z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(60.388,111.453,94.041) scale(1,1) translate(111.453,94.041)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">3.72</tspan>
+              </text>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(60.388,114.623,140.092) scale(1,1) translate(114.623,140.092)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">2.67</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M109.981,138.814 L104.062,142.179 L103.657,134.578 L109.981,138.814 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="1">
+              <path d="M122.953,161.638 L117.034,165.003 L123.358,169.24 L122.953,161.638 z"/>
+            </g>
+          </g>
+          <g width="56" height="56" transform="rotate(150.264,2040.958,1361.296) scale(1,1) translate(2012.958,1333.296)">
+            <g width="56" height="56">
+              <g transform="scale(0.9572652693741202,0.954654018032965) translate(0,0)">
+                <g>
+                  <g width="56.5" height="43.993" transform="scale(1,1) translate(0.5,0.5)">
+                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
+                      <path d="M56.5,43.993 L56.5,43.993 L56.392,41.736 L56.187,39.609 L55.897,37.594 L55.534,35.676 L55.106,33.845 L54.619,32.092 L54.079,30.41 L53.49,28.793 L52.855,27.236 L52.178,25.736 L51.461,24.29 L50.705,22.893 L49.914,21.545 L49.088,20.244 L48.228,18.986 L47.337,17.771 L46.414,16.598 L45.46,15.465 L44.477,14.371 L43.465,13.317 L42.424,12.3 L41.355,11.322 L40.258,10.38 L39.132,9.476 L37.979,8.608 L36.798,7.778 L35.59,6.985 L34.353,6.229 L33.088,5.511 L31.794,4.831 L30.471,4.189 L29.118,3.587 L27.734,3.026 L26.32,2.506 L24.873,2.029 L23.393,1.596 L21.879,1.21 L20.328,0.871 L18.739,0.583 L17.11,0.348 L15.439,0.17 L13.722,0.052 L11.956,0 L10.136,0.019 L8.258,0.115 L6.315,0.298 L4.299,0.578 L2.199,0.97 L0,1.493 L0,1.493 L0,43.326" fill="none" stroke-width="1" stroke-dasharray="none"/>
+                      <g>
+                        <g stroke-dasharray="none">
+                          <path d="M55.5,42.993L57.5,42.993L57.5,44.993L55.5,44.993z" stroke-width="0" fill="none"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g width="56.833" height="14.167" transform="scale(1,1) translate(0.167,44.493)">
+                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="56.833" height="14.167" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
+                      <rect width="56.833" height="14.167"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,37.722,-6) scale(1,1) translate(37.722,-6)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
+            </g>
+          </g>
+          <g width="241.741" height="133.802" transform="scale(1,1) translate(1879.224,1414.961)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,133.802 L241.741,0" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-3.937,129.865L3.937,129.865L3.937,137.739L-3.937,137.739z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-3.359,127.733 L-17.31,102.528 L92.429,41.787 M114.691,29.466 L224.431,-31.274 L238.382,-6.069"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-4.359,126.733L-2.359,126.733L-2.359,128.733L-4.359,128.733z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(331.036,91.757,34.378) scale(1,1) translate(91.757,34.378)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">3.51</tspan>
+              </text>
+            </g>
+          </g>
+          <g width="38.204" height="68.851" transform="scale(1,1) translate(2000,1481.914)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,0 L38.204,68.851" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-3.937,-3.937L3.937,-3.937L3.937,3.937L-3.937,3.937z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M6.066,-3.366 L31.256,-17.343 L47.548,12.018 M53.168,22.146 L69.46,51.508 L44.27,65.485"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M5.066,-4.366L7.066,-4.366L7.066,-2.366L5.066,-2.366z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(60.975,54.957,11.338) scale(1,1) translate(54.957,11.338)" opacity="1">
+              <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">1</tspan>
+              </text>
+            </g>
+          </g>
+          <g width="38.204" height="68.851" transform="scale(1,1) translate(1937.5,1520.885)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,0 L38.204,68.851" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-3.937,-3.937L3.937,-3.937L3.937,3.937L-3.937,3.937z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M6.066,-3.366 L31.256,-17.343 L47.548,12.018 M53.168,22.146 L69.46,51.508 L44.27,65.485"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M5.066,-4.366L7.066,-4.366L7.066,-2.366L5.066,-2.366z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(60.975,54.957,11.338) scale(1,1) translate(54.957,11.338)" opacity="1">
+              <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">1</tspan>
+              </text>
+            </g>
+          </g>
+          <g width="36" height="48" transform="rotate(150,2112.716,1468.695) scale(1,1) translate(2094.716,1444.695)">
+            <g width="36" height="48">
+              <g transform="scale(0.95155022931742,0.9473621739987017) translate(0,0)">
+                <g>
+                  <g width="31.5" height="25.833" transform="scale(1,1) translate(3.167,15)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M0.999,0 L0.999,0 L0.884,0.528 L0.776,1.056 L0.675,1.583 L0.582,2.11 L0.496,2.636 L0.417,3.161 L0.345,3.686 L0.28,4.21 L0.222,4.733 L0.171,5.256 L0.126,5.778 L0.088,6.299 L0.057,6.82 L0.033,7.34 L0.015,7.86 L0.004,8.379 L0,8.898 L0.002,9.415 L0.011,9.933 L0.026,10.45 L0.048,10.966 L0.076,11.481 L0.11,11.996 L0.152,12.51 L0.199,13.024 L0.253,13.537 L0.314,14.05 L0.381,14.562 L0.455,15.074 L0.535,15.584 L0.621,16.095 L0.714,16.604 L0.814,17.113 L0.92,17.622 L1.033,18.13 L1.153,18.637 L1.279,19.144 L1.412,19.65 L1.551,20.155 L1.698,20.66 L1.851,21.164 L2.012,21.668 L2.179,22.171 L2.353,22.673 L2.534,23.175 L2.723,23.676 L2.919,24.176 L3.122,24.676 L3.332,25.175 L3.332,25.175 L29.832,25.833 L29.832,25.833 L29.932,25.31 L30.03,24.787 L30.124,24.264 L30.216,23.74 L30.305,23.216 L30.392,22.692 L30.475,22.168 L30.556,21.644 L30.634,21.12 L30.709,20.595 L30.781,20.07 L30.851,19.545 L30.918,19.02 L30.982,18.495 L31.044,17.969 L31.102,17.444 L31.158,16.918 L31.211,16.392 L31.262,15.866 L31.309,15.339 L31.354,14.813 L31.397,14.286 L31.436,13.759 L31.473,13.232 L31.507,12.705 L31.538,12.178 L31.567,11.65 L31.593,11.122 L31.616,10.594 L31.636,10.066 L31.654,9.538 L31.668,9.01 L31.68,8.481 L31.69,7.952 L31.696,7.423 L31.7,6.894 L31.701,6.365 L31.7,5.835 L31.695,5.306 L31.688,4.776 L31.678,4.246 L31.666,3.716 L31.65,3.186 L31.632,2.655 L31.611,2.124 L31.587,1.594 L31.56,1.063 L31.531,0.531 L31.499,0 L31.499,0 L0.999,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                  <g width="32.667" height="36.5" transform="scale(1,1) translate(2.5,13.667)">
+                    <g width="32.667" height="36.5" transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill-opacity="1" fill="#FFFFFF">
+                      <ellipse rx="16.3335" ry="18.25" cx="16.3335" cy="18.25"/>
+                    </g>
+                  </g>
+                  <g width="17.833" height="4.833" transform="scale(1,1) translate(10,14.333)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M0.706,0 L0.706,0 L0.53,0 L0.53,0 L0.53,0 L0.53,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0,0.806 L0,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.706,4.632 L0.706,4.833 L17.127,4.833 L17.127,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.833,4.028 L17.833,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.127,0.201 L17.127,0 L0.706,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                  <g width="36.833" height="15" transform="scale(1,1) translate(0.5,0.5)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M3.041,0 L2.365,0 L2.196,0 L2.028,0.165 L1.859,0.165 L1.69,0.33 L1.521,0.33 L1.352,0.495 L1.352,0.495 L1.183,0.659 L1.014,0.659 L1.014,0.824 L1.014,0.824 L0.845,0.989 L0.845,0.989 L0.676,0.989 L0.676,1.154 L0.676,1.154 L0.507,1.319 L0.507,1.319 L0.507,1.484 L0.507,1.484 L0.338,1.648 L0.338,1.648 L0.338,1.813 L0.338,1.813 L0.338,1.978 L0.169,1.978 L0.169,1.978 L0.169,2.143 L0.169,2.143 L0.169,2.308 L0.169,2.308 L0.169,2.473 L0.169,2.473 L0.169,2.637 L0.169,2.637 L0.169,2.802 L0.169,2.802 L0,2.967 L0,12.033 L0.169,12.033 L0.169,12.033 L0.169,12.198 L0.169,12.198 L0.169,12.363 L0.169,12.363 L0.169,12.527 L0.169,12.527 L0.169,12.692 L0.169,12.692 L0.169,12.857 L0.169,12.857 L0.338,13.022 L0.338,13.022 L0.338,13.022 L0.338,13.187 L0.338,13.187 L0.507,13.352 L0.507,13.352 L0.507,13.516 L0.507,13.516 L0.676,13.681 L0.676,13.681 L0.676,13.846 L0.845,13.846 L0.845,14.011 L1.014,14.011 L1.014,14.011 L1.014,14.176 L1.183,14.176 L1.352,14.341 L1.352,14.341 L1.521,14.505 L1.69,14.505 L1.859,14.67 L2.028,14.67 L2.196,14.835 L2.365,14.835 L3.041,15 L33.792,15 L34.468,15 L34.637,15 L34.806,14.835 L34.975,14.835 L35.144,14.67 L35.313,14.67 L35.482,14.505 L35.482,14.505 L35.651,14.341 L35.82,14.341 L35.82,14.176 L35.82,14.176 L35.989,14.011 L35.989,14.011 L36.157,14.011 L36.157,13.846 L36.157,13.846 L36.326,13.681 L36.326,13.681 L36.326,13.516 L36.326,13.516 L36.495,13.352 L36.495,13.352 L36.495,13.187 L36.495,13.187 L36.495,13.022 L36.664,13.022 L36.664,13.022 L36.664,12.857 L36.664,12.857 L36.664,12.692 L36.664,12.692 L36.664,12.527 L36.664,12.527 L36.664,12.363 L36.664,12.363 L36.664,12.198 L36.664,12.198 L36.833,12.033 L36.833,2.967 L36.664,2.967 L36.664,2.967 L36.664,2.802 L36.664,2.802 L36.664,2.637 L36.664,2.637 L36.664,2.473 L36.664,2.473 L36.664,2.308 L36.664,2.308 L36.664,2.143 L36.664,2.143 L36.495,1.978 L36.495,1.978 L36.495,1.978 L36.495,1.813 L36.495,1.813 L36.326,1.648 L36.326,1.648 L36.326,1.484 L36.326,1.484 L36.157,1.319 L36.157,1.319 L36.157,1.154 L35.989,1.154 L35.989,0.989 L35.82,0.989 L35.82,0.989 L35.82,0.824 L35.651,0.824 L35.482,0.659 L35.482,0.659 L35.313,0.495 L35.144,0.495 L34.975,0.33 L34.806,0.33 L34.637,0.165 L34.468,0.165 L33.792,0 L3.041,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,27.722,-6) scale(1,1) translate(27.722,-6)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M4.874,-16.212 L4.874,-9.404 L-1.935,-12.808 L4.874,-16.212 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M31.126,-16.212 L31.126,-9.404 L37.935,-12.808 L31.126,-16.212 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,33.722) scale(1,1) translate(42,33.722)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M52.212,10.874 L45.404,10.874 L48.808,4.065 L52.212,10.874 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M52.212,37.126 L45.404,37.126 L48.808,43.935 L52.212,37.126 z"/>
+            </g>
+          </g>
+          <g width="36" height="32" transform="rotate(60,2249.385,1373.819) scale(1,1) translate(2231.385,1357.819)">
             <g width="36" height="32">
               <g transform="scale(0.2435180129413912,0.24380394180864143) translate(0,0)">
                 <g>
@@ -2860,9 +2847,9 @@ function Yantra() {
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
               <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,27.722,-6) scale(1,1) translate(27.722,-6)" opacity="0">
+            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(8.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2873,7 +2860,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,25.722) scale(1,1) translate(42,25.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.41</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.41</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -2883,7 +2870,7 @@ function Yantra() {
               <path d="M52.212,29.126 L45.404,29.126 L48.808,35.935 L52.212,29.126 z"/>
             </g>
           </g>
-          <g width="36" height="32" transform="rotate(150,2189.753,1430.322) scale(1,1) translate(2171.753,1414.322)">
+          <g width="36" height="32" transform="rotate(60,2214.624,1318.214) scale(1,1) translate(2196.624,1302.214)">
             <g width="36" height="32">
               <g transform="scale(0.2435180129413912,0.24380394180864143) translate(0,0)">
                 <g>
@@ -3011,9 +2998,9 @@ function Yantra() {
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
               <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,27.722,-6) scale(1,1) translate(27.722,-6)" opacity="0">
+            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(8.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3024,7 +3011,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,25.722) scale(1,1) translate(42,25.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.41</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.41</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3151,7 +3138,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(62.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.83</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.83</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3162,7 +3149,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,163.617,12.278) scale(1,1) translate(163.617,12.278)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.56</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.56</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3172,9 +3159,9 @@ function Yantra() {
               <path d="M160.212,35.126 L153.404,35.126 L156.808,41.935 L160.212,35.126 z"/>
             </g>
           </g>
-          <g width="144" height="44" transform="rotate(330,2095.738,1337.278) scale(1,1) translate(2023.738,1315.278)">
-            <g width="144" height="44">
-              <g transform="scale(0.4786708719934294,0.4808743319758743) translate(0,0)">
+          <g width="144.094" height="44" transform="rotate(240,2143.303,1399.045) scale(1,1) translate(2071.256,1377.045)">
+            <g width="144.094" height="44">
+              <g transform="scale(0.4789849604921127,0.4808743319758743) translate(0,0)">
                 <g>
                   <g width="299.833" height="90.5" transform="scale(1,1) translate(0.5,0.5)">
                     <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#F2F2F2">
@@ -3287,35 +3274,36 @@ function Yantra() {
             <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
               <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(62.278,-19.617)" opacity="0">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,81.769,-6) scale(1,1) translate(81.769,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.83</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.83</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M58.874,-16.212 L58.874,-9.404 L52.065,-12.808 L58.874,-16.212 z"/>
+              <path d="M58.921,-16.212 L58.921,-9.404 L52.113,-12.808 L58.921,-16.212 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M85.126,-16.212 L85.126,-9.404 L91.935,-12.808 L85.126,-16.212 z"/>
+              <path d="M85.174,-16.212 L85.174,-9.404 L91.982,-12.808 L85.174,-16.212 z"/>
             </g>
-            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,163.617,12.278) scale(1,1) translate(163.617,12.278)" opacity="0">
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,163.711,12.278) scale(1,1) translate(163.711,12.278)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.56</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.56</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M160.212,8.874 L153.404,8.874 L156.808,2.065 L160.212,8.874 z"/>
+              <path d="M160.307,8.874 L153.499,8.874 L156.903,2.065 L160.307,8.874 z"/>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
-              <path d="M160.212,35.126 L153.404,35.126 L156.808,41.935 L160.212,35.126 z"/>
+              <path d="M160.307,35.126 L153.499,35.126 L156.903,41.935 L160.307,35.126 z"/>
             </g>
           </g>
           <g width="96" height="40.157" transform="rotate(270,1355.96,2044.904) scale(1,1) translate(1307.96,2024.825)">
             <g stroke="#7F7F7F" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" width="96" height="40.157" transform="scale(1,1) translate(0,0)" fill="#DAC1A7" fill-opacity="1">
               <rect width="96" height="40.157"/>
             </g>
-            <g width="96" height="40.157" transform="scale(1,1) translate(0,0)" stroke-width="0" stroke-dasharray="none" fill="url(#07b4d438-f5c6-4ff0-82d9-ef25f110c705)" filter="url(#e87c334d-535d-40c6-84e5-3e9259065aab)">
-              <pattern id="07b4d438-f5c6-4ff0-82d9-ef25f110c705" x="-1307.96" y="-2024.825" width="128" height="128" patternUnits="userSpaceOnUse" preserveAspectRatio="none meet" viewBox="0 0 128 128">
+            <g width="96" height="40.157" transform="scale(1,1) translate(0,0)" stroke-width="0" stroke-dasharray="none" fill="url(#182dccea-fdfd-4ac3-8249-ff75931f962f)" filter="url(#c577012a-ae63-454b-8fa6-0eaf6ddb9e4d)">
+              <pattern id="182dccea-fdfd-4ac3-8249-ff75931f962f" x="-1307.96" y="-2024.825" width="128" height="128" patternUnits="userSpaceOnUse" preserveAspectRatio="none meet" viewBox="0 0 128 128">
+                <use href="#600c78d2-53f7-45fd-84c9-2c5bc155ec88"/>
               </pattern>
               <rect width="96" height="40.157"/>
             </g>
@@ -3324,7 +3312,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(38.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.22</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.22</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3335,7 +3323,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,115.617,10.357) scale(1,1) translate(115.617,10.357)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.51</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.51</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3349,8 +3337,9 @@ function Yantra() {
             <g stroke="#7F7F7F" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" width="96" height="40.157" transform="scale(1,1) translate(0,0)" fill="#DAC1A7" fill-opacity="1">
               <rect width="96" height="40.157"/>
             </g>
-            <g width="96" height="40.157" transform="scale(1,1) translate(0,0)" stroke-width="0" stroke-dasharray="none" fill="url(#f508e6e8-62fa-43f8-8baa-9961a10fdc42)" filter="url(#e87c334d-535d-40c6-84e5-3e9259065aab)">
-              <pattern id="f508e6e8-62fa-43f8-8baa-9961a10fdc42" x="-1307.96" y="-2160.946" width="128" height="128" patternUnits="userSpaceOnUse" preserveAspectRatio="none meet" viewBox="0 0 128 128">
+            <g width="96" height="40.157" transform="scale(1,1) translate(0,0)" stroke-width="0" stroke-dasharray="none" fill="url(#9fd545c7-850e-400c-8692-719c6b7c42e0)" filter="url(#c577012a-ae63-454b-8fa6-0eaf6ddb9e4d)">
+              <pattern id="9fd545c7-850e-400c-8692-719c6b7c42e0" x="-1307.96" y="-2160.946" width="128" height="128" patternUnits="userSpaceOnUse" preserveAspectRatio="none meet" viewBox="0 0 128 128">
+                <use href="#600c78d2-53f7-45fd-84c9-2c5bc155ec88"/>
               </pattern>
               <rect width="96" height="40.157"/>
             </g>
@@ -3359,7 +3348,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(38.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.22</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.22</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3370,7 +3359,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,115.617,10.357) scale(1,1) translate(115.617,10.357)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.51</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.51</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3384,8 +3373,9 @@ function Yantra() {
             <g stroke="#7F7F7F" stroke-opacity="1" stroke-width="1" stroke-dasharray="none" width="96" height="40.157" transform="scale(1,1) translate(0,0)" fill="#DAC1A7" fill-opacity="1">
               <rect width="96" height="40.157"/>
             </g>
-            <g width="96" height="40.157" transform="scale(1,1) translate(0,0)" stroke-width="0" stroke-dasharray="none" fill="url(#952be4de-4e98-4903-8290-aa53bead912f)" filter="url(#e87c334d-535d-40c6-84e5-3e9259065aab)">
-              <pattern id="952be4de-4e98-4903-8290-aa53bead912f" x="-1309.96" y="-2294.726" width="128" height="128" patternUnits="userSpaceOnUse" preserveAspectRatio="none meet" viewBox="0 0 128 128">
+            <g width="96" height="40.157" transform="scale(1,1) translate(0,0)" stroke-width="0" stroke-dasharray="none" fill="url(#47ae36ab-cc14-49cd-80fd-9d9c3af048cb)" filter="url(#c577012a-ae63-454b-8fa6-0eaf6ddb9e4d)">
+              <pattern id="47ae36ab-cc14-49cd-80fd-9d9c3af048cb" x="-1309.96" y="-2294.726" width="128" height="128" patternUnits="userSpaceOnUse" preserveAspectRatio="none meet" viewBox="0 0 128 128">
+                <use href="#600c78d2-53f7-45fd-84c9-2c5bc155ec88"/>
               </pattern>
               <rect width="96" height="40.157"/>
             </g>
@@ -3394,7 +3384,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(38.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.22</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">1.22</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3405,7 +3395,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(90,115.617,10.357) scale(1,1) translate(115.617,10.357)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.51</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.51</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3415,9 +3405,9 @@ function Yantra() {
               <path d="M112.212,33.205 L105.404,33.205 L108.808,40.013 L112.212,33.205 z"/>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(59.196,1712.651,1242.144) scale(1,1) translate(1684.651,1214.144)">
+          <g width="56" height="56" transform="rotate(59.196,1715.888,1242.144) scale(1,1) translate(1687.888,1214.144)">
             <g width="56" height="56">
-              <g transform="scale(0.9572652693741203,0.9546540180329651) translate(0,0)">
+              <g transform="scale(0.9572652693741202,0.954654018032965) translate(0,0)">
                 <g>
                   <g width="56.5" height="43.993" transform="scale(1,1) translate(0.5,0.5)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -3442,7 +3432,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3453,7 +3443,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3463,9 +3453,9 @@ function Yantra() {
               <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
             </g>
           </g>
-          <g width="56" height="56" transform="rotate(59.196,1742.587,1291.104) scale(1,1) translate(1714.587,1263.104)">
+          <g width="56" height="56" transform="rotate(59.196,1746.597,1291.104) scale(1,1) translate(1718.597,1263.104)">
             <g width="56" height="56">
-              <g transform="scale(0.9572647491922952,0.9672350500339078) translate(0,0)">
+              <g transform="scale(0.9572647491922951,0.9672350500339076) translate(0,0)">
                 <g>
                   <g width="56.5" height="43.897" transform="scale(1,1) translate(0.5,0.5)">
                     <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
@@ -3490,7 +3480,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3501,7 +3491,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3568,7 +3558,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(26.278,-19.617)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3579,7 +3569,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,78,45.722) scale(1,1) translate(78,45.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3646,7 +3636,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(180,45.722,-6) scale(1,1) translate(45.722,-6)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3657,7 +3647,7 @@ function Yantra() {
             </g>
             <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,78,45.722) scale(1,1) translate(78,45.722)" opacity="0">
               <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="10" font-weight="normal" font-style="normal" text-decoration="none" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.91</tspan>
               </text>
             </g>
             <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
@@ -3673,7 +3663,7 @@ function Yantra() {
             </g>
             <g width="74.60070037841797" height="22.39583396911621" transform="scale(1,1) translate(0,0)">
               <text width="74.60070037841797" height="22.39583396911621" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" text-decoration="none" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="74.60070037841797">hot yoga</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="74.60070037841797">hot yoga</tspan>
               </text>
             </g>
           </g>
@@ -3683,7 +3673,7 @@ function Yantra() {
             </g>
             <g width="119.63542175292969" height="22.39583396911621" transform="scale(1,1) translate(0,0)">
               <text width="119.63542175292969" height="22.39583396911621" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" text-decoration="none" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="119.63542175292969">physiotherapy</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="119.63542175292969">physiotherapy</tspan>
               </text>
             </g>
           </g>
@@ -3693,7 +3683,7 @@ function Yantra() {
             </g>
             <g width="42.86458206176758" height="22.39583396911621" transform="scale(1,1) translate(0,0)">
               <text width="42.86458206176758" height="22.39583396911621" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" text-decoration="none" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="42.86458206176758">utility</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="42.86458206176758">utility</tspan>
               </text>
             </g>
           </g>
@@ -3703,7 +3693,7 @@ function Yantra() {
             </g>
             <g width="63.00347137451172" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
               <text width="63.00347137451172" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="33.333333333333336" font-weight="normal" font-style="normal" text-decoration="none" fill="#000000" opacity="1" x="0" text-anchor="start" y="30.608" textLength="63.00347137451172">pirin</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="33.333333333333336" fill="#000000" opacity="1" x="0" text-anchor="start" y="30.608" textLength="63.00347137451172">pirin</tspan>
               </text>
             </g>
           </g>
@@ -3711,9 +3701,9 @@ function Yantra() {
             <g stroke="#000000" stroke-opacity="1" stroke-width="0" stroke-dasharray="none" width="44.462" height="38.073" transform="scale(1,1) translate(0,0)" fill="none">
               <rect width="44.462" height="38.073"/>
             </g>
-            <g width="44.46180725097656" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
-              <text width="44.46180725097656" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="33.333333333333336" font-weight="normal" font-style="normal" text-decoration="none" fill="#000000" opacity="1" x="0" text-anchor="start" y="30.608" textLength="44.46180725097656">rila</tspan>
+            <g width="44.461807250976676" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
+              <text width="44.461807250976676" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="33.333333333333336" fill="#000000" opacity="1" x="0" text-anchor="start" y="30.608" textLength="44.46180725097656">rila</tspan>
               </text>
             </g>
           </g>
@@ -3723,7 +3713,7 @@ function Yantra() {
             </g>
             <g width="122.34375" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
               <text width="122.34375" height="38.07291793823242" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="33.333333333333336" font-weight="normal" font-style="normal" text-decoration="none" fill="#000000" opacity="1" x="0" text-anchor="start" y="30.608" textLength="122.34375">rhodope</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="33.333333333333336" fill="#000000" opacity="1" x="0" text-anchor="start" y="30.608" textLength="122.34375">rhodope</tspan>
               </text>
             </g>
           </g>
@@ -3733,7 +3723,259 @@ function Yantra() {
             </g>
             <g width="98.35069274902344" height="44.79166793823242" transform="scale(1,1) translate(0,0)">
               <text width="98.35069274902344" height="44.79166793823242" transform="scale(1,1) translate(0,0)">
-                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" font-weight="normal" font-style="normal" text-decoration="none" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="75.64236450195312">yantra (basement)</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" fill="#000000" opacity="1" x="0" text-anchor="start" y="17.917" textLength="75.64236450195312">    yantra</tspan>
+                <tspan text-rendering="optimizeSpeed" font-size="19.444444444444443" fill="#000000" opacity="1" x="0" text-anchor="start" y="40.313" textLength="98.35069274902344">(basement)</tspan>
+              </text>
+            </g>
+          </g>
+          <g width="22.724" height="41.835" transform="scale(1,1) translate(1820.324,1460.723)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,0 L22.724,41.835" fill="none" stroke-width="11.811" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-11.811,-11.811L11.811,-11.811L11.811,11.811L-11.811,11.811z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M13.015,-7.07 L38.33,-20.821 L44.945,-8.642 M54.438,8.835 L61.054,21.014 L35.739,34.765"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M12.015,-8.07L14.015,-8.07L14.015,-6.07L12.015,-6.07z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(61.489,52.36,-9.255) scale(1,1) translate(52.36,-9.255)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">0.6</tspan>
+              </text>
+            </g>
+          </g>
+          <g width="38.204" height="68.851" transform="scale(1,1) translate(2062.5,1447.321)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,0 L38.204,68.851" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-3.937,-3.937L3.937,-3.937L3.937,3.937L-3.937,3.937z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M6.066,-3.366 L31.256,-17.343 L47.548,12.018 M53.168,22.146 L69.46,51.508 L44.27,65.485"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M5.066,-4.366L7.066,-4.366L7.066,-2.366L5.066,-2.366z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="5.5833330154418945" height="13.616665840148926" transform="rotate(60.975,54.957,11.338) scale(1,1) translate(54.957,11.338)" opacity="1">
+              <text width="5.5833330154418945" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="5.5833330154418945">1</tspan>
+              </text>
+            </g>
+          </g>
+          <g width="56" height="56" transform="rotate(59.865,2053.773,1258.241) scale(1,1) translate(2025.773,1230.241)">
+            <g width="56" height="56">
+              <g transform="scale(0.9572652693741203,0.9546540180329651) translate(0,0)">
+                <g>
+                  <g width="56.5" height="43.993" transform="scale(1,1) translate(0.5,0.5)">
+                    <g transform="scale(1,1) translate(0,0)" fill-opacity="1" fill="#000000" stroke-opacity="1" stroke="#000000">
+                      <path d="M56.5,43.993 L56.5,43.993 L56.392,41.736 L56.187,39.609 L55.897,37.594 L55.534,35.676 L55.106,33.845 L54.619,32.092 L54.079,30.41 L53.49,28.793 L52.855,27.236 L52.178,25.736 L51.461,24.29 L50.705,22.893 L49.914,21.545 L49.088,20.244 L48.228,18.986 L47.337,17.771 L46.414,16.598 L45.46,15.465 L44.477,14.371 L43.465,13.317 L42.424,12.3 L41.355,11.322 L40.258,10.38 L39.132,9.476 L37.979,8.608 L36.798,7.778 L35.59,6.985 L34.353,6.229 L33.088,5.511 L31.794,4.831 L30.471,4.189 L29.118,3.587 L27.734,3.026 L26.32,2.506 L24.873,2.029 L23.393,1.596 L21.879,1.21 L20.328,0.871 L18.739,0.583 L17.11,0.348 L15.439,0.17 L13.722,0.052 L11.956,0 L10.136,0.019 L8.258,0.115 L6.315,0.298 L4.299,0.578 L2.199,0.97 L0,1.493 L0,1.493 L0,43.326" fill="none" stroke-width="1" stroke-dasharray="none"/>
+                      <g>
+                        <g stroke-dasharray="none">
+                          <path d="M55.5,42.993L57.5,42.993L57.5,44.993L55.5,44.993z" stroke-width="0" fill="none"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g width="56.833" height="14.167" transform="scale(1,1) translate(0.167,44.493)">
+                    <g stroke="#BFBFBF" opacity="1" stroke-width="0" stroke-dasharray="none" width="56.833" height="14.167" transform="scale(1,1) translate(0,0)" fill="#FFFFFF">
+                      <rect width="56.833" height="14.167"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(18.278,-19.617)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M14.874,-16.212 L14.874,-9.404 L8.065,-12.808 L14.874,-16.212 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M41.126,-16.212 L41.126,-9.404 L47.935,-12.808 L41.126,-16.212 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,62,37.722) scale(1,1) translate(62,37.722)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.71</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,14.874 L65.404,14.874 L68.808,8.065 L72.212,14.874 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M72.212,41.126 L65.404,41.126 L68.808,47.935 L72.212,41.126 z"/>
+            </g>
+          </g>
+          <g width="36" height="48" transform="rotate(60,2138.917,1199.331) scale(1,1) translate(2120.917,1175.331)">
+            <g width="36" height="48">
+              <g transform="scale(0.95155022931742,0.9473621739987017) translate(0,0)">
+                <g>
+                  <g width="31.5" height="25.833" transform="scale(1,1) translate(3.167,15)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M0.999,0 L0.999,0 L0.884,0.528 L0.776,1.056 L0.675,1.583 L0.582,2.11 L0.496,2.636 L0.417,3.161 L0.345,3.686 L0.28,4.21 L0.222,4.733 L0.171,5.256 L0.126,5.778 L0.088,6.299 L0.057,6.82 L0.033,7.34 L0.015,7.86 L0.004,8.379 L0,8.898 L0.002,9.415 L0.011,9.933 L0.026,10.45 L0.048,10.966 L0.076,11.481 L0.11,11.996 L0.152,12.51 L0.199,13.024 L0.253,13.537 L0.314,14.05 L0.381,14.562 L0.455,15.074 L0.535,15.584 L0.621,16.095 L0.714,16.604 L0.814,17.113 L0.92,17.622 L1.033,18.13 L1.153,18.637 L1.279,19.144 L1.412,19.65 L1.551,20.155 L1.698,20.66 L1.851,21.164 L2.012,21.668 L2.179,22.171 L2.353,22.673 L2.534,23.175 L2.723,23.676 L2.919,24.176 L3.122,24.676 L3.332,25.175 L3.332,25.175 L29.832,25.833 L29.832,25.833 L29.932,25.31 L30.03,24.787 L30.124,24.264 L30.216,23.74 L30.305,23.216 L30.392,22.692 L30.475,22.168 L30.556,21.644 L30.634,21.12 L30.709,20.595 L30.781,20.07 L30.851,19.545 L30.918,19.02 L30.982,18.495 L31.044,17.969 L31.102,17.444 L31.158,16.918 L31.211,16.392 L31.262,15.866 L31.309,15.339 L31.354,14.813 L31.397,14.286 L31.436,13.759 L31.473,13.232 L31.507,12.705 L31.538,12.178 L31.567,11.65 L31.593,11.122 L31.616,10.594 L31.636,10.066 L31.654,9.538 L31.668,9.01 L31.68,8.481 L31.69,7.952 L31.696,7.423 L31.7,6.894 L31.701,6.365 L31.7,5.835 L31.695,5.306 L31.688,4.776 L31.678,4.246 L31.666,3.716 L31.65,3.186 L31.632,2.655 L31.611,2.124 L31.587,1.594 L31.56,1.063 L31.531,0.531 L31.499,0 L31.499,0 L0.999,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                  <g width="32.667" height="36.5" transform="scale(1,1) translate(2.5,13.667)">
+                    <g width="32.667" height="36.5" transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill-opacity="1" fill="#FFFFFF">
+                      <ellipse rx="16.3335" ry="18.25" cx="16.3335" cy="18.25"/>
+                    </g>
+                  </g>
+                  <g width="17.833" height="4.833" transform="scale(1,1) translate(10,14.333)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M0.706,0 L0.706,0 L0.53,0 L0.53,0 L0.53,0 L0.53,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0,0.806 L0,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.706,4.632 L0.706,4.833 L17.127,4.833 L17.127,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.833,4.028 L17.833,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.127,0.201 L17.127,0 L0.706,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                  <g width="36.833" height="15" transform="scale(1,1) translate(0.5,0.5)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M3.041,0 L2.365,0 L2.196,0 L2.028,0.165 L1.859,0.165 L1.69,0.33 L1.521,0.33 L1.352,0.495 L1.352,0.495 L1.183,0.659 L1.014,0.659 L1.014,0.824 L1.014,0.824 L0.845,0.989 L0.845,0.989 L0.676,0.989 L0.676,1.154 L0.676,1.154 L0.507,1.319 L0.507,1.319 L0.507,1.484 L0.507,1.484 L0.338,1.648 L0.338,1.648 L0.338,1.813 L0.338,1.813 L0.338,1.978 L0.169,1.978 L0.169,1.978 L0.169,2.143 L0.169,2.143 L0.169,2.308 L0.169,2.308 L0.169,2.473 L0.169,2.473 L0.169,2.637 L0.169,2.637 L0.169,2.802 L0.169,2.802 L0,2.967 L0,12.033 L0.169,12.033 L0.169,12.033 L0.169,12.198 L0.169,12.198 L0.169,12.363 L0.169,12.363 L0.169,12.527 L0.169,12.527 L0.169,12.692 L0.169,12.692 L0.169,12.857 L0.169,12.857 L0.338,13.022 L0.338,13.022 L0.338,13.022 L0.338,13.187 L0.338,13.187 L0.507,13.352 L0.507,13.352 L0.507,13.516 L0.507,13.516 L0.676,13.681 L0.676,13.681 L0.676,13.846 L0.845,13.846 L0.845,14.011 L1.014,14.011 L1.014,14.011 L1.014,14.176 L1.183,14.176 L1.352,14.341 L1.352,14.341 L1.521,14.505 L1.69,14.505 L1.859,14.67 L2.028,14.67 L2.196,14.835 L2.365,14.835 L3.041,15 L33.792,15 L34.468,15 L34.637,15 L34.806,14.835 L34.975,14.835 L35.144,14.67 L35.313,14.67 L35.482,14.505 L35.482,14.505 L35.651,14.341 L35.82,14.341 L35.82,14.176 L35.82,14.176 L35.989,14.011 L35.989,14.011 L36.157,14.011 L36.157,13.846 L36.157,13.846 L36.326,13.681 L36.326,13.681 L36.326,13.516 L36.326,13.516 L36.495,13.352 L36.495,13.352 L36.495,13.187 L36.495,13.187 L36.495,13.022 L36.664,13.022 L36.664,13.022 L36.664,12.857 L36.664,12.857 L36.664,12.692 L36.664,12.692 L36.664,12.527 L36.664,12.527 L36.664,12.363 L36.664,12.363 L36.664,12.198 L36.664,12.198 L36.833,12.033 L36.833,2.967 L36.664,2.967 L36.664,2.967 L36.664,2.802 L36.664,2.802 L36.664,2.637 L36.664,2.637 L36.664,2.473 L36.664,2.473 L36.664,2.308 L36.664,2.308 L36.664,2.143 L36.664,2.143 L36.495,1.978 L36.495,1.978 L36.495,1.978 L36.495,1.813 L36.495,1.813 L36.326,1.648 L36.326,1.648 L36.326,1.484 L36.326,1.484 L36.157,1.319 L36.157,1.319 L36.157,1.154 L35.989,1.154 L35.989,0.989 L35.82,0.989 L35.82,0.989 L35.82,0.824 L35.651,0.824 L35.482,0.659 L35.482,0.659 L35.313,0.495 L35.144,0.495 L34.975,0.33 L34.806,0.33 L34.637,0.165 L34.468,0.165 L33.792,0 L3.041,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(8.278,-19.617)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M4.874,-16.212 L4.874,-9.404 L-1.935,-12.808 L4.874,-16.212 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M31.126,-16.212 L31.126,-9.404 L37.935,-12.808 L31.126,-16.212 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,33.722) scale(1,1) translate(42,33.722)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M52.212,10.874 L45.404,10.874 L48.808,4.065 L52.212,10.874 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M52.212,37.126 L45.404,37.126 L48.808,43.935 L52.212,37.126 z"/>
+            </g>
+          </g>
+          <g width="36" height="48" transform="rotate(60,2168.595,1247.071) scale(1,1) translate(2150.595,1223.071)">
+            <g width="36" height="48">
+              <g transform="scale(0.95155022931742,0.9473621739987017) translate(0,0)">
+                <g>
+                  <g width="31.5" height="25.833" transform="scale(1,1) translate(3.167,15)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M0.999,0 L0.999,0 L0.884,0.528 L0.776,1.056 L0.675,1.583 L0.582,2.11 L0.496,2.636 L0.417,3.161 L0.345,3.686 L0.28,4.21 L0.222,4.733 L0.171,5.256 L0.126,5.778 L0.088,6.299 L0.057,6.82 L0.033,7.34 L0.015,7.86 L0.004,8.379 L0,8.898 L0.002,9.415 L0.011,9.933 L0.026,10.45 L0.048,10.966 L0.076,11.481 L0.11,11.996 L0.152,12.51 L0.199,13.024 L0.253,13.537 L0.314,14.05 L0.381,14.562 L0.455,15.074 L0.535,15.584 L0.621,16.095 L0.714,16.604 L0.814,17.113 L0.92,17.622 L1.033,18.13 L1.153,18.637 L1.279,19.144 L1.412,19.65 L1.551,20.155 L1.698,20.66 L1.851,21.164 L2.012,21.668 L2.179,22.171 L2.353,22.673 L2.534,23.175 L2.723,23.676 L2.919,24.176 L3.122,24.676 L3.332,25.175 L3.332,25.175 L29.832,25.833 L29.832,25.833 L29.932,25.31 L30.03,24.787 L30.124,24.264 L30.216,23.74 L30.305,23.216 L30.392,22.692 L30.475,22.168 L30.556,21.644 L30.634,21.12 L30.709,20.595 L30.781,20.07 L30.851,19.545 L30.918,19.02 L30.982,18.495 L31.044,17.969 L31.102,17.444 L31.158,16.918 L31.211,16.392 L31.262,15.866 L31.309,15.339 L31.354,14.813 L31.397,14.286 L31.436,13.759 L31.473,13.232 L31.507,12.705 L31.538,12.178 L31.567,11.65 L31.593,11.122 L31.616,10.594 L31.636,10.066 L31.654,9.538 L31.668,9.01 L31.68,8.481 L31.69,7.952 L31.696,7.423 L31.7,6.894 L31.701,6.365 L31.7,5.835 L31.695,5.306 L31.688,4.776 L31.678,4.246 L31.666,3.716 L31.65,3.186 L31.632,2.655 L31.611,2.124 L31.587,1.594 L31.56,1.063 L31.531,0.531 L31.499,0 L31.499,0 L0.999,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                  <g width="32.667" height="36.5" transform="scale(1,1) translate(2.5,13.667)">
+                    <g width="32.667" height="36.5" transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" stroke-width="1" stroke-dasharray="none" fill-opacity="1" fill="#FFFFFF">
+                      <ellipse rx="16.3335" ry="18.25" cx="16.3335" cy="18.25"/>
+                    </g>
+                  </g>
+                  <g width="17.833" height="4.833" transform="scale(1,1) translate(10,14.333)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M0.706,0 L0.706,0 L0.53,0 L0.53,0 L0.53,0 L0.53,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.353,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.201 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.403 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0.177,0.604 L0,0.806 L0,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.028 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.229 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.177,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.431 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.353,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.53,4.632 L0.706,4.632 L0.706,4.833 L17.127,4.833 L17.127,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.304,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.833 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.48,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.632 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.431 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.657,4.229 L17.833,4.028 L17.833,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.806 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.604 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.657,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.403 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.48,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.304,0.201 L17.127,0.201 L17.127,0 L0.706,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                  <g width="36.833" height="15" transform="scale(1,1) translate(0.5,0.5)">
+                    <g transform="scale(1,1) translate(0,0)" stroke-opacity="1" stroke="#000000" fill-opacity="1" fill="#FFFFFF">
+                      <path d="M3.041,0 L2.365,0 L2.196,0 L2.028,0.165 L1.859,0.165 L1.69,0.33 L1.521,0.33 L1.352,0.495 L1.352,0.495 L1.183,0.659 L1.014,0.659 L1.014,0.824 L1.014,0.824 L0.845,0.989 L0.845,0.989 L0.676,0.989 L0.676,1.154 L0.676,1.154 L0.507,1.319 L0.507,1.319 L0.507,1.484 L0.507,1.484 L0.338,1.648 L0.338,1.648 L0.338,1.813 L0.338,1.813 L0.338,1.978 L0.169,1.978 L0.169,1.978 L0.169,2.143 L0.169,2.143 L0.169,2.308 L0.169,2.308 L0.169,2.473 L0.169,2.473 L0.169,2.637 L0.169,2.637 L0.169,2.802 L0.169,2.802 L0,2.967 L0,12.033 L0.169,12.033 L0.169,12.033 L0.169,12.198 L0.169,12.198 L0.169,12.363 L0.169,12.363 L0.169,12.527 L0.169,12.527 L0.169,12.692 L0.169,12.692 L0.169,12.857 L0.169,12.857 L0.338,13.022 L0.338,13.022 L0.338,13.022 L0.338,13.187 L0.338,13.187 L0.507,13.352 L0.507,13.352 L0.507,13.516 L0.507,13.516 L0.676,13.681 L0.676,13.681 L0.676,13.846 L0.845,13.846 L0.845,14.011 L1.014,14.011 L1.014,14.011 L1.014,14.176 L1.183,14.176 L1.352,14.341 L1.352,14.341 L1.521,14.505 L1.69,14.505 L1.859,14.67 L2.028,14.67 L2.196,14.835 L2.365,14.835 L3.041,15 L33.792,15 L34.468,15 L34.637,15 L34.806,14.835 L34.975,14.835 L35.144,14.67 L35.313,14.67 L35.482,14.505 L35.482,14.505 L35.651,14.341 L35.82,14.341 L35.82,14.176 L35.82,14.176 L35.989,14.011 L35.989,14.011 L36.157,14.011 L36.157,13.846 L36.157,13.846 L36.326,13.681 L36.326,13.681 L36.326,13.516 L36.326,13.516 L36.495,13.352 L36.495,13.352 L36.495,13.187 L36.495,13.187 L36.495,13.022 L36.664,13.022 L36.664,13.022 L36.664,12.857 L36.664,12.857 L36.664,12.692 L36.664,12.692 L36.664,12.527 L36.664,12.527 L36.664,12.363 L36.664,12.363 L36.664,12.198 L36.664,12.198 L36.833,12.033 L36.833,2.967 L36.664,2.967 L36.664,2.967 L36.664,2.802 L36.664,2.802 L36.664,2.637 L36.664,2.637 L36.664,2.473 L36.664,2.473 L36.664,2.308 L36.664,2.308 L36.664,2.143 L36.664,2.143 L36.495,1.978 L36.495,1.978 L36.495,1.978 L36.495,1.813 L36.495,1.813 L36.326,1.648 L36.326,1.648 L36.326,1.484 L36.326,1.484 L36.157,1.319 L36.157,1.319 L36.157,1.154 L35.989,1.154 L35.989,0.989 L35.82,0.989 L35.82,0.989 L35.82,0.824 L35.651,0.824 L35.482,0.659 L35.482,0.659 L35.313,0.495 L35.144,0.495 L34.975,0.33 L34.806,0.33 L34.637,0.165 L34.468,0.165 L33.792,0 L3.041,0 z" stroke-width="1" stroke-dasharray="none"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="0" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M0,0"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(8.278,-19.617)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.46</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M4.874,-16.212 L4.874,-9.404 L-1.935,-12.808 L4.874,-16.212 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M31.126,-16.212 L31.126,-9.404 L37.935,-12.808 L31.126,-16.212 z"/>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(270,42,33.722) scale(1,1) translate(42,33.722)" opacity="0">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.61</tspan>
+              </text>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M52.212,10.874 L45.404,10.874 L48.808,4.065 L52.212,10.874 z"/>
+            </g>
+            <g transform="scale(1,1) translate(0,0)" fill="black" opacity="0">
+              <path d="M52.212,37.126 L45.404,37.126 L48.808,43.935 L52.212,37.126 z"/>
+            </g>
+          </g>
+          <g width="131.324" height="114.824" transform="scale(1,1) translate(2085,1188.419)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,0 L68.884,114.824 L131.324,74.915" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-3.937,-3.937L3.937,-3.937L3.937,3.937L-3.937,3.937z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-5.949,3.569 L-30.653,18.389 L-1.326,67.273 M8.905,84.328 L38.232,133.213 L62.936,118.392 M72.62,120.669 L88.135,144.943 L108.635,131.839 M130.075,118.136 L150.575,105.033 L135.06,80.76"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-6.949,2.569L-4.949,2.569L-4.949,4.569L-6.949,4.569z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="13.888888359069824" height="13.616665840148926" transform="rotate(59.04,6.055,66.343) scale(1,1) translate(6.055,66.343)" opacity="1">
+              <text width="13.888888359069824" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="13.888888359069824">1.7</tspan>
+              </text>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(327.415,107.497,124.487) scale(1,1) translate(107.497,124.487)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.94</tspan>
+              </text>
+            </g>
+          </g>
+          <g width="63.664" height="40" transform="scale(1,1) translate(2119.944,1206.667)">
+            <g transform="scale(1,1) translate(0,0)" fill="#000000" stroke="#000000" stroke-opacity="1">
+              <path d="M0,40 L63.664,0" fill="none" stroke-width="3.937" stroke-dasharray="none"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-3.937,36.063L3.937,36.063L3.937,43.937L-3.937,43.937z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g fill="#9999FF" stroke="#9999FF" stroke-opacity="1" opacity="1" transform="scale(1,1) translate(0,0)">
+              <path fill="none" stroke-width="1" stroke-dasharray="none" d="M-3.691,34.126 L-19.017,9.733 L2.043,-3.499 M23.588,-17.035 L44.647,-30.267 L59.974,-5.874"/>
+              <g>
+                <g stroke-dasharray="none">
+                  <path d="M-4.691,33.126L-2.691,33.126L-2.691,35.126L-4.691,35.126z" stroke-width="0" fill="none"/>
+                </g>
+              </g>
+            </g>
+            <g width="19.44444465637207" height="13.616665840148926" transform="rotate(327.859,0.961,-10.86) scale(1,1) translate(0.961,-10.86)" opacity="1">
+              <text width="19.44444465637207" height="13.616665840148926" transform="scale(1,1) translate(0,0)">
+                <tspan text-rendering="optimizeSpeed" font-size="10" fill="#000" opacity="1" x="0" text-anchor="start" y="10.75" textLength="19.44444465637207">0.95</tspan>
               </text>
             </g>
           </g>
